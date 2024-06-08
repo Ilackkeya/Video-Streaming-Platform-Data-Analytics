@@ -22,16 +22,20 @@ and [movies.csv](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Anal
 - These movies and tv shows csv files were further subjected to EDA and visualizations in PowerBI to understand the data and explore answers to certain questions. [EDA](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics/blob/main/3.Descriptive%20Statistics%20and%20Visualizations.ipynb), [PowerBI_Overview](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics/blob/main/PowerBI_Dashboards_TV_Movies.pbix), [PowerBI_Movies](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics/blob/main/Which_Streaming_Platform.pbix)
 
 **PowerBI Dashboard - TV shows and Movies Overview**
+
 ![TV_Dashboard](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics/assets/66105814/5e91e8f3-9f0d-4243-b413-fe164f9e3f79)
 
+
 ![Movies_Dashboard](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics/assets/66105814/578c149f-cc2b-428b-904e-152e3342ac01)
+
 
 - Finally, the predictive analysis was performed for TV shows and Movies Genre Classification System. [Predictive Analysis](https://github.com/Ilackkeya/Video-Streaming-Platform-Data-Analytics/blob/main/4.Predictive_Analytics.ipynb)
   
 ### For More Information
-Please review the directed links or contact any of the authors.
 
-**Authors contact**
+Please review the directed links or contact any of the authors for any additional questions and/or concerns.
+
+**Contact**
 
 Audrey Warner audrey.warner1@outlook.com
 
