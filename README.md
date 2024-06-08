@@ -1,1 +1,1 @@
-# Video-Streaming-Platform-Data-Analytics
+# Video_Streaming_Platforms_Project

@@ -1,0 +1,903 @@
+type,title,date_added,release_year,rating,duration_minutes,listed_in,streaming_platform
+Movie,Ricky Velez: Here's Everything,"October 24, 2021",2021,TV-MA,96.50121457489878,"Comedy, Stand Up",Hulu
+Movie,The Marksman,"October 23, 2021",2021,PG-13,108.0,"Action, Thriller",Hulu
+Movie,Gaia,"October 22, 2021",2021,R,97.0,Horror,Hulu
+Movie,Dream Horse,"October 18, 2021",2020,PG,113.0,"Comedy, Drama",Hulu
+Movie,Cheer Camp Killer,"October 15, 2021",2020,TV-14,87.0,Thriller,Hulu
+Movie,Sleepwalker,"October 15, 2021",2017,TV-14,88.0,Thriller,Hulu
+Movie,Out of Death,"October 14, 2021",2021,NR,95.0,Thriller,Hulu
+Movie,CHIPS,"October 13, 2021",2017,R,101.0,"Action, Adventure, Comedy",Hulu
+Movie,The Loneliest Whale: The Search for 52,"October 12, 2021",2021,PG,97.0,Documentaries,Hulu
+Movie,Gunda,"October 11, 2021",2020,G,93.0,Documentaries,Hulu
+Movie,G.I. Joe: Retaliation,"October 10, 2021",2013,PG-13,105.0,"Action, Adventure",Hulu
+Movie,Jacinta,"October 8, 2021",2021,TV-MA,105.0,Documentaries,Hulu
+Movie,The Hills Presents: Speidi's Wedding Unveiled,"October 5, 2021",2009,TV-PG,96.50121457489878,"Reality, Teen",Hulu
+Movie,Maggie's Plan,"October 4, 2021",2015,R,99.0,"Comedy, Drama, Romance",Hulu
+Movie,The Program,"October 4, 2021",1993,R,112.0,"Action, Adventure, Drama",Hulu
+Movie,Unfaithful,"October 4, 2021",2002,R,124.0,"Drama, Romance, Thriller",Hulu
+Movie,Finding Your Feet,"October 3, 2021",2017,PG-13,112.0,"Comedy, Drama, Romance",Hulu
+Movie,A.I.: Artificial Intelligence,"October 1, 2021",2001,PG-13,145.0,"Adventure, Drama, Science Fiction",Hulu
+Movie,Air Force One,"October 1, 2021",1997,R,125.0,"Action, Adventure, Horror",Hulu
+Movie,Ali,"October 1, 2021",2001,R,157.0,"Black Stories, Drama, History",Hulu
+Movie,Blippi's Spooky Spell Halloween,"October 1, 2021",2021,TV-Y,41.0,Kids,Hulu
+Movie,Boxcar Bertha,"October 1, 2021",1972,R,89.0,"Crime, Drama",Hulu
+Movie,Cedar Rapids,"October 1, 2021",2011,R,87.0,Comedy,Hulu
+Movie,Chasing Papi,"October 1, 2021",2003,PG,80.0,"Comedy, Drama, Romance",Hulu
+Movie,Class,"October 1, 2021",1983,R,99.0,"Comedy, Drama",Hulu
+Movie,Clifford,"October 1, 2021",1994,PG,90.0,"Comedy, Family, Kids",Hulu
+Movie,Clockstoppers,"October 1, 2021",2002,PG,94.0,"Action, Adventure, Comedy",Hulu
+Movie,Code 46,"October 1, 2021",2004,R,93.0,"Drama, Romance, Science Fiction",Hulu
+Movie,Crimson Tide,"October 1, 2021",1995,R,116.0,"Drama, Horror, Thriller",Hulu
+Movie,Date Night Extended Version,"October 1, 2021",2010,PG-13,102.0,"Action, Adventure, Comedy",Hulu
+Movie,Dead of Winter,"October 1, 2021",1987,R,101.0,"Horror, Thriller",Hulu
+Movie,Diary of a Wimpy Kid: Rodrick Rules,"October 1, 2021",2011,PG,100.0,"Comedy, Family, Kids",Hulu
+Movie,Dr. No,"October 1, 2021",1962,PG,110.0,"Action, Adventure",Hulu
+Movie,Escape from Alcatraz,"October 1, 2021",1979,PG,112.0,"Action, Crime, Drama",Hulu
+Movie,Exorcist: The Beginning,"October 1, 2021",2004,R,113.0,Horror,Hulu
+Movie,Flatliners,"October 1, 2021",1990,R,114.0,"Drama, Horror, Science Fiction",Hulu
+Movie,From Russia With Love,"October 1, 2021",1964,PG,115.0,"Action, Adventure, Classics",Hulu
+Movie,GoldenEye,"October 1, 2021",1995,PG-13,130.0,"Action, Adventure, Thriller",Hulu
+Movie,Goldfinger,"October 1, 2021",1965,PG,110.0,"Action, Adventure, Classics",Hulu
+Movie,Happy Feet,"October 1, 2021",2006,TV-PG,101.0,"Action, Adventure, Comedy",Hulu
+Movie,Happy Feet Two,"October 1, 2021",2011,PG,100.0,"Adventure, Comedy, Family",Hulu
+Movie,House of Games,"October 1, 2021",1987,R,102.0,Thriller,Hulu
+Movie,Intersection,"October 1, 2021",1994,R,99.0,"Drama, Romance",Hulu
+Movie,License to Kill,"October 1, 2021",1989,PG-13,133.0,"Action, Adventure",Hulu
+Movie,Light It Up,"October 1, 2021",1999,R,99.0,"Black Stories, Drama, LGBTQ+",Hulu
+Movie,Lost In Space,"October 1, 2021",1998,PG-13,130.0,"Action, Adventure, Science Fiction",Hulu
+Movie,Mad Max,"October 1, 2021",1979,R,93.0,"Action, Adventure, Science Fiction",Hulu
+Movie,My Best Friend's Wedding,"October 1, 2021",1997,PG-13,105.0,"Comedy, Romance",Hulu
+Movie,Peeples,"October 1, 2021",2013,PG-13,95.0,"Comedy, Romance",Hulu
+Movie,Queen of the Damned,"October 1, 2021",2002,R,101.0,Horror,Hulu
+Movie,Racing With the Moon,"October 1, 2021",1984,PG,108.0,"Comedy, Drama, Romance",Hulu
+Movie,Remo Williams: The Adventure Begins,"October 1, 2021",1985,PG-13,121.0,"Action, Adventure",Hulu
+Movie,Resident Evil: Retribution,"October 1, 2021",2012,R,96.0,"Action, Adventure, Horror",Hulu
+Movie,Rushmore,"October 1, 2021",1998,R,93.0,"Comedy, Teen",Hulu
+Movie,Signs,"October 1, 2021",2002,PG-13,107.0,"Horror, Science Fiction, Thriller",Hulu
+Movie,Sleepless in Seattle,"October 1, 2021",1993,PG,105.0,"Comedy, Romance",Hulu
+Movie,Snatch,"October 1, 2021",2000,R,103.0,"Action, Adventure, Comedy",Hulu
+Movie,Species,"October 1, 2021",1995,R,109.0,"Horror, Science Fiction, Thriller",Hulu
+Movie,Species II,"October 1, 2021",1998,R,93.0,"Action, Adventure, Horror",Hulu
+Movie,Species III,"October 1, 2021",2004,R,112.0,"Action, Adventure, Drama",Hulu
+Movie,Species: The Awakening,"October 1, 2021",2007,TV-MA,98.0,"Science Fiction, Thriller",Hulu
+Movie,Star Trek II: The Wrath of Khan,"October 1, 2021",1982,PG,113.0,"Action, Adventure, Classics",Hulu
+Movie,Star Trek III: The Search for Spock,"October 1, 2021",1984,PG,105.0,"Action, Adventure, Family",Hulu
+Movie,Star Trek IV: The Voyage Home,"October 1, 2021",1986,PG,119.0,"Action, Adventure, Family",Hulu
+Movie,Star Trek V: The Final Frontier,"October 1, 2021",1989,PG,106.0,"Action, Adventure, Family",Hulu
+Movie,Star Trek VI: The Undiscovered Country,"October 1, 2021",1991,PG,110.0,"Action, Adventure, Family",Hulu
+Movie,Star Trek VIII: First Contact,"October 1, 2021",1996,PG-13,111.0,"Action, Adventure, Family",Hulu
+Movie,Star Trek: Generations,"October 1, 2021",1994,PG,118.0,"Action, Adventure, Family",Hulu
+Movie,Star Trek: Insurrection,"October 1, 2021",1998,PG,103.0,"Action, Adventure, Family",Hulu
+Movie,Star Trek: Nemesis,"October 1, 2021",2002,PG-13,117.0,"Action, Adventure, Science Fiction",Hulu
+Movie,Star Trek: The Motion Picture,"October 1, 2021",1979,PG,130.0,"Action, Adventure, Family",Hulu
+Movie,Sweet Home Alabama,"October 1, 2021",2002,TV-14,104.0,"Comedy, Romance",Hulu
+Movie,Sweet Land,"October 1, 2021",2005,PG,111.0,"Drama, Romance",Hulu
+Movie,The Extreme Adventures of Super Dave,"October 1, 2021",2000,PG,91.0,Comedy,Hulu
+Movie,The Holiday,"October 1, 2021",2006,PG-13,136.0,"Comedy, Drama, Romance",Hulu
+Movie,The Hunger Games,"October 1, 2021",2012,TV-14,181.0,"Action, Adventure, Science Fiction",Hulu
+Movie,The Hunger Games: Catching Fire,"October 1, 2021",2013,TV-14,182.0,"Action, Adventure, Science Fiction",Hulu
+Movie,"The Hunger Games: Mockingjay, Part 1","October 1, 2021",2014,TV-14,108.0,"Action, Adventure, Science Fiction",Hulu
+Movie,"The Hunger Games: Mockingjay, Part 2","October 1, 2021",2015,TV-14,128.0,"Action, Adventure, Family",Hulu
+Movie,The Mask of Zorro,"October 1, 2021",1998,PG-13,138.0,"Action, Adventure",Hulu
+Movie,The Perfect Holiday,"October 1, 2021",2007,PG,96.0,"Comedy, Drama, Family",Hulu
+Movie,The Recruit,"October 1, 2021",2003,PG-13,115.0,"Action, Thriller",Hulu
+Movie,The Rocky Horror Picture Show,"October 1, 2021",1975,R,99.0,"Comedy, Music",Hulu
+Movie,The Saint,"October 1, 2021",1997,PG-13,116.0,"Action, Adventure, Drama",Hulu
+Movie,The Spy Who Loved Me,"October 1, 2021",1977,PG,126.0,"Action, Adventure",Hulu
+Movie,The Taking of Pelham 1 2 3,"October 1, 2021",2009,R,106.0,"Action, Adventure, Black Stories",Hulu
+Movie,The Untouchables,"October 1, 2021",1987,R,119.0,"Classics, Crime, Drama",Hulu
+Movie,The Village,"October 1, 2021",2004,PG-13,108.0,"Horror, Thriller",Hulu
+Movie,The Vow,"October 1, 2021",2012,TV-14,104.0,"Drama, Romance",Hulu
+Movie,Theater of Blood,"October 1, 2021",1973,R,104.0,"Comedy, Horror, News",Hulu
+Movie,Total Recall,"October 1, 2021",2012,TV-14,118.0,"Action, Adventure, Science Fiction",Hulu
+Movie,Unforgettable,"October 1, 2021",2017,R,100.0,"Drama, Thriller",Hulu
+Movie,Victor Frankenstein,"October 1, 2021",2015,PG-13,110.0,"Drama, Horror",Hulu
+Movie,Waitress,"October 1, 2021",2007,PG-13,108.0,"Comedy, Drama, Romance",Hulu
+Movie,When A Man Loves A Woman,"October 1, 2021",1994,R,126.0,"Drama, Romance",Hulu
+Movie,Within,"October 1, 2021",2016,R,88.0,"Horror, Thriller",Hulu
+Movie,Wolves at the Door,"October 1, 2021",2016,R,72.0,"Drama, Horror, Thriller",Hulu
+Movie,Wrong Turn 2: Dead End,"October 1, 2021",2007,R,96.0,"Drama, Horror, Thriller",Hulu
+Movie,Felix and the Hidden Treasure,"September 28, 2021",2021,TV-PG,84.0,"Adventure, Comedy, Kids",Hulu
+Movie,Gemini,"September 25, 2021",2017,R,93.0,"Drama, Horror, Mystery",Hulu
+Movie,Grown Ups,"September 20, 2021",2010,TV-14,97.0,Comedy,Hulu
+Movie,On Chesil Beach,"September 16, 2021",2018,R,110.0,"Cooking & Food, Drama, Lifestyle & Culture",Hulu
+Movie,All About Nina,"September 15, 2021",2018,R,101.0,"Comedy, Drama",Hulu
+Movie,"Gilberto Santa Rosa, 40…y Contando","September 15, 2021",2018,TV-PG,96.50121457489878,"Documentaries, Latino, Music",Hulu
+Movie,Hitman: Agent 47,"September 15, 2021",2015,R,97.0,"Action, Adventure, Crime",Hulu
+Movie,Los Croods 2: Una Nueva Era,"September 15, 2021",2020,PG,95.0,"Family, Latino",Hulu
+Movie,"Love, Simon","September 15, 2021",2018,PG-13,110.0,"Comedy, Drama, LGBTQ+",Hulu
+Movie,Maze Runner: The Death Cure,"September 15, 2021",2018,PG-13,144.0,"Action, Adventure, Science Fiction",Hulu
+Movie,"Santana - Corazón: Live From Mexico, Live It to Believe It","September 15, 2021",2014,TV-14,96.50121457489878,"Documentaries, International, Latino",Hulu
+Movie,Thalía 'Viva Tour' (En Vivo),"September 15, 2021",2014,TV-PG,96.50121457489878,"Documentaries, International, Latino",Hulu
+Movie,The King Stays King,"September 15, 2021",2012,TV-PG,96.50121457489878,"Documentaries, International, Latino",Hulu
+Movie,"Yandel: Legacy, De Lider a Leyenda Tour","September 15, 2021",2015,TV-14,96.50121457489878,"Documentaries, International, Latino",Hulu
+Movie,Colette,"September 13, 2021",2018,R,112.0,"Drama, History",Hulu
+Movie,Detainee 001,"September 10, 2021",2021,TV-MA,96.50121457489878,Documentaries,Hulu
+Movie,Transporter 3,"September 10, 2021",2008,PG-13,99.0,"Action, Adventure",Hulu
+Movie,La La Land,"September 8, 2021",2016,PG-13,128.0,"Comedy, Drama, Music",Hulu
+Movie,Logan,"September 7, 2021",2017,R,138.0,"Action, Drama, Science Fiction",Hulu
+Movie,Bolden,"September 3, 2021",2019,R,102.0,"Drama, History, Music",Hulu
+Movie,CMA Summer Jam,"September 3, 2021",2021,TV-PG,96.50121457489878,Music,Hulu
+Movie,Blue City,"September 1, 2021",1986,R,83.0,"Action, Adventure, Horror",Hulu
+Movie,Cold Creek Manor,"September 1, 2021",2003,R,119.0,"Drama, Thriller",Hulu
+Movie,Crazy Heart,"September 1, 2021",2009,R,112.0,"Drama, Music, Romance",Hulu
+Movie,Edward Scissorhands,"September 1, 2021",1990,PG-13,101.0,"Comedy, Drama, Romance",Hulu
+Movie,El Dorado,"September 1, 2021",1967,TV-PG,126.0,"Action, Adventure",Hulu
+Movie,Election,"September 1, 2021",1999,R,103.0,Comedy,Hulu
+Movie,Free Willy,"September 1, 2021",1993,PG,111.0,"Drama, Family, Kids",Hulu
+Movie,Free Willy 2: The Adventure Home,"September 1, 2021",1995,PG,98.0,"Drama, Family, Kids",Hulu
+Movie,Free Willy 3: The Rescue,"September 1, 2021",1997,PG,86.0,"Action, Adventure, Family",Hulu
+Movie,Free Willy: Escape From Pirate's Cove,"September 1, 2021",2010,PG,101.0,"Adventure, Kids",Hulu
+Movie,"Friday The 13th, Part III","September 1, 2021",1982,R,95.0,"Horror, Thriller",Hulu
+Movie,Friday the 13th: The Final Chapter,"September 1, 2021",1984,R,91.0,"Action, Adventure, Horror",Hulu
+Movie,Gattaca,"September 1, 2021",1997,PG-13,106.0,"Drama, Science Fiction, Thriller",Hulu
+Movie,Girls! Girls! Girls!,"September 1, 2021",1962,PG,99.0,"Comedy, Music",Hulu
+Movie,Hoosiers,"September 1, 2021",1986,PG,115.0,"Drama, Sports",Hulu
+Movie,I Spit on Your Grave,"September 1, 2021",2010,R,106.0,Horror,Hulu
+Movie,I Spit On Your Grave 2,"September 1, 2021",2013,R,106.0,Horror,Hulu
+Movie,Internal Affairs,"September 1, 2021",1990,R,115.0,"Action, Adventure, Crime",Hulu
+Movie,Kiss The Girls,"September 1, 2021",1997,R,116.0,"Black Stories, Crime, Drama",Hulu
+Movie,McLintock! (Producer's Cut),"September 1, 2021",1963,TV-PG,127.0,"Action, Adventure, Comedy",Hulu
+Movie,Miss You Already,"September 1, 2021",2015,PG-13,113.0,"Drama, Romance",Hulu
+Movie,Mommy,"September 1, 2021",2014,R,139.0,"Drama, International",Hulu
+Movie,Much Ado About Nothing,"September 1, 2021",2013,PG-13,109.0,"Comedy, Drama, Romance",Hulu
+Movie,New Year's Eve,"September 1, 2021",2011,PG-13,118.0,"Comedy, Drama, Romance",Hulu
+Movie,Phase IV,"September 1, 2021",1974,PG,83.0,"Horror, Science Fiction, Thriller",Hulu
+Movie,Priest,"September 1, 2021",2011,PG-13,87.0,"Action, Adventure, Horror",Hulu
+Movie,Road to Perdition,"September 1, 2021",2002,R,117.0,"Crime, Drama",Hulu
+Movie,Shaun the Sheep Movie,"September 1, 2021",2015,PG,79.0,"Adventure, Comedy, Family",Hulu
+Movie,Slumdog Millionaire,"September 1, 2021",2008,R,121.0,"Drama, International, Romance",Hulu
+Movie,Solace,"September 1, 2021",2015,R,102.0,"Drama, Horror, Mystery",Hulu
+Movie,Sucker Punch,"September 1, 2021",2011,PG-13,110.0,"Action, Adventure, Science Fiction",Hulu
+Movie,Tears of the Sun,"September 1, 2021",2003,R,121.0,"Action, Drama, Thriller",Hulu
+Movie,The Apparition,"September 1, 2021",2012,PG-13,83.0,Horror,Hulu
+Movie,The Glass House,"September 1, 2021",2001,PG-13,106.0,"Drama, Horror, Thriller",Hulu
+Movie,The Interview,"September 1, 2021",2014,TV-MA,113.0,Comedy,Hulu
+Movie,The Last Castle,"September 1, 2021",2001,TV-14,131.0,"Action, Adventure, Drama",Hulu
+Movie,The Manchurian Candidate,"September 1, 2021",2004,R,130.0,"Drama, Mystery, Science Fiction",Hulu
+Movie,The Mexican,"September 1, 2021",2001,R,123.0,"Action, Adventure, Comedy",Hulu
+Movie,The Possession,"September 1, 2021",2012,PG-13,92.0,"Horror, Thriller",Hulu
+Movie,The Tenant,"September 1, 2021",1976,R,125.0,"Drama, Horror",Hulu
+Movie,The Wedding Plan,"September 1, 2021",2016,PG,110.0,"Comedy, Drama, Romance",Hulu
+Movie,The X-Files: Fight the Future,"September 1, 2021",1998,PG-13,122.0,"Horror, Science Fiction, Thriller",Hulu
+Movie,Vantage Point,"September 1, 2021",2008,PG-13,90.0,"Action, Adventure, Drama",Hulu
+Movie,Volcano,"September 1, 2021",1997,R,104.0,"Action, Adventure, Drama",Hulu
+Movie,Spell,"August 30, 2021",2020,R,91.0,"Horror, Thriller",Hulu
+Movie,Horizon Line,"August 29, 2021",2020,PG-13,92.0,Thriller,Hulu
+Movie,Four Good Days,"August 28, 2021",2020,R,101.0,Drama,Hulu
+Movie,Chaos Walking,"August 27, 2021",2021,PG-13,109.0,"Adventure, Science Fiction",Hulu
+Movie,In the Earth,"August 27, 2021",2021,R,107.0,"Horror, Thriller",Hulu
+Movie,Disobedience,"August 26, 2021",2017,R,114.0,"Drama, LGBTQ+, Romance",Hulu
+Movie,Feral State,"August 26, 2021",2020,R,83.0,Thriller,Hulu
+Movie,Love and Monsters,"August 26, 2021",2020,PG,109.0,"Adventure, Comedy",Hulu
+Movie,Unsane,"August 18, 2021",2018,R,98.0,"Horror, Thriller",Hulu
+Movie,The Hate U Give,"August 15, 2021",2018,PG-13,133.0,"Black Stories, Drama",Hulu
+Movie,Homeroom,"August 12, 2021",2021,TV-MA,92.0,"Black Stories, Documentaries",Hulu
+Movie,The Virtuoso,"August 12, 2021",2021,R,110.0,"Horror, Thriller",Hulu
+Movie,Texas: Spirit and Soul,"August 6, 2021",2021,TV-PG,96.50121457489878,Documentaries,Hulu
+Movie,21,"August 1, 2021",2008,PG-13,123.0,Drama,Hulu
+Movie,30 Days of Night,"August 1, 2021",2007,R,113.0,"Horror, Thriller",Hulu
+Movie,30 Minutes or Less,"August 1, 2021",2011,R,82.0,"Action, Adventure, Comedy",Hulu
+Movie,Alpha and Omega,"August 1, 2021",2010,PG,88.0,"Adventure, Comedy, Family",Hulu
+Movie,Are We There Yet?,"August 1, 2021",2005,PG,91.0,"Action, Adventure, Black Stories",Hulu
+Movie,Attack the Block,"August 1, 2021",2011,R,88.0,"Action, Black Stories, Comedy",Hulu
+Movie,Black Swan,"August 1, 2021",2010,R,108.0,"Drama, Horror, Mystery",Hulu
+Movie,Every Breath You Take,"August 1, 2021",2021,R,106.0,Thriller,Hulu
+Movie,First Knight,"August 1, 2021",1995,PG-13,134.0,"Action, Adventure, Drama",Hulu
+Movie,Freelancers,"August 1, 2021",2012,R,97.0,"Action, Adventure, Crime",Hulu
+Movie,French Postcards,"August 1, 2021",1979,PG,95.0,"Comedy, Drama, Romance",Hulu
+Movie,From Prada to Nada,"August 1, 2021",2011,PG-13,107.0,"Comedy, Drama, Romance",Hulu
+Movie,Gulliver's Travels,"August 1, 2021",2010,PG,81.0,"Action, Adventure, Comedy",Hulu
+Movie,Jack and Jill,"August 1, 2021",2011,PG,91.0,Comedy,Hulu
+Movie,Kingpin,"August 1, 2021",1996,TV-14,114.0,Comedy,Hulu
+Movie,Mirror Mirror,"August 1, 2021",2012,PG,106.0,"Action, Adventure, Comedy",Hulu
+Movie,Mud,"August 1, 2021",2012,PG-13,131.0,"Action, Adventure, Drama",Hulu
+Movie,My Bloody Valentine,"August 1, 2021",1981,R,101.0,"Horror, Thriller",Hulu
+Movie,Shane,"August 1, 2021",1953,TV-G,135.0,"Adventure, Drama, Romance",Hulu
+Movie,Shark Tale,"August 1, 2021",2004,PG,90.0,"Action, Adventure, Comedy",Hulu
+Movie,Some Kind of Wonderful,"August 1, 2021",1987,PG-13,95.0,"Comedy, Romance",Hulu
+Movie,The Baby-Sitters Club,"August 1, 2021",1995,PG,94.0,"Comedy, Drama, Family",Hulu
+Movie,The Final Girls,"August 1, 2021",2015,PG-13,91.0,"Comedy, Horror",Hulu
+Movie,The Hot Chick,"August 1, 2021",2002,PG-13,105.0,Comedy,Hulu
+Movie,The Hunter,"August 1, 2021",1980,PG,97.0,"Action, Adventure, Crime",Hulu
+Movie,The Sons of Katie Elder,"August 1, 2021",1965,TV-PG,122.0,"Action, Adventure",Hulu
+Movie,The Thin Red Line,"August 1, 2021",1998,R,170.0,"Drama, History",Hulu
+Movie,The Vatican Tapes,"August 1, 2021",2015,PG-13,91.0,"Horror, Thriller",Hulu
+Movie,Toy Soldiers,"August 1, 2021",1991,R,112.0,"Action, Adventure",Hulu
+Movie,Transcendence,"August 1, 2021",2014,PG-13,119.0,"Action, Adventure, Drama",Hulu
+Movie,Under the Tuscan Sun,"August 1, 2021",2003,PG-13,113.0,"Comedy, Drama, Romance",Hulu
+Movie,Watchmen,"August 1, 2021",2009,R,162.0,"Action, Adventure, Crime",Hulu
+Movie,The Artist,"July 26, 2021",2011,PG-13,101.0,"Comedy, Drama, Romance",Hulu
+Movie,Bullhead,"July 15, 2021",2011,R,129.0,"Crime, Drama",Hulu
+Movie,The Connection,"July 15, 2021",2015,R,136.0,"Horror, Thriller",Hulu
+Movie,The Final Member,"July 15, 2021",2014,R,72.0,"Documentaries, International",Hulu
+Movie,The FP,"July 15, 2021",2012,R,83.0,Comedy,Hulu
+Movie,The Keeping Room,"July 15, 2021",2015,R,95.0,"Drama, History, Thriller",Hulu
+Movie,College Football,"July 14, 2021",1998,TV-G,96.50121457489878,Sports,Hulu
+Movie,47 Meters Down,"July 10, 2021",2017,PG-13,89.0,"Horror, Thriller",Hulu
+Movie,Barb and Star Go to Vista Del Mar,"July 9, 2021",2021,PG-13,107.0,Comedy,Hulu
+Movie,In a World...,"July 9, 2021",2013,R,93.0,"Comedy, Drama",Hulu
+Movie,"Pete Lee: Tall, Dark, and Pleasant","July 9, 2021",2021,TV-MA,96.50121457489878,"Comedy, Stand Up",Hulu
+Movie,Papillon,"July 8, 2021",2017,R,133.0,"Action, Adventure, Drama",Hulu
+Movie,Red Penguins,"July 7, 2021",2019,PG-13,80.0,Documentaries,Hulu
+Movie,Bill & Ted Face the Music,"July 2, 2021",2020,PG-13,92.0,"Adventure, Comedy",Hulu
+Movie,Born a Champion,"July 2, 2021",2021,R,112.0,"Action, Drama",Hulu
+Movie,Dark Web: Cicada 3301,"July 2, 2021",2021,R,105.0,"Action, Adventure, Comedy",Hulu
+Movie,Fear of Rain,"July 2, 2021",2021,PG-13,109.0,"Drama, Thriller",Hulu
+Movie,Silk Road,"July 2, 2021",2021,R,117.0,"Crime, Drama, Thriller",Hulu
+Movie,Summer of Soul,"July 2, 2021",2021,PG-13,118.0,"Black Stories, Documentaries",Hulu
+Movie,The Right One,"July 2, 2021",2021,R,95.0,"Comedy, Romance",Hulu
+Movie,127 Hours,"July 1, 2021",2010,R,94.0,Drama,Hulu
+Movie,28 Weeks Later,"July 1, 2021",2007,R,100.0,"Action, Horror, Science Fiction",Hulu
+Movie,68 Kill,"July 1, 2021",2017,R,93.0,"Comedy, Crime, Drama",Hulu
+Movie,American Gun,"July 1, 2021",2005,R,95.0,Drama,Hulu
+Movie,An Acceptable Loss,"July 1, 2021",2019,R,102.0,"Horror, Thriller",Hulu
+Movie,Band Aid,"July 1, 2021",2017,R,94.0,"Comedy, Drama, Music",Hulu
+Movie,"Beats, Rhymes & Life: The Travels of A Tribe Called Quest","July 1, 2021",2011,R,98.0,"Documentaries, Music",Hulu
+Movie,Best of Cheddar,"July 1, 2021",2018,TV-G,96.50121457489878,News,Hulu
+Movie,Big Fish,"July 1, 2021",2003,PG-13,125.0,Drama,Hulu
+Movie,Bitter Harvest,"July 1, 2021",2017,R,103.0,Drama,Hulu
+Movie,Bohemian Rhapsody,"July 1, 2021",2018,PG-13,135.0,"Drama, LGBTQ+, Music",Hulu
+Movie,Candyman 3: Day of the Dead,"July 1, 2021",1999,R,93.0,"Horror, Thriller",Hulu
+Movie,Chaplin,"July 1, 2021",1993,PG-13,145.0,Drama,Hulu
+Movie,Chuck,"July 1, 2021",2016,R,98.0,Drama,Hulu
+Movie,Coyote Ugly,"July 1, 2021",2000,PG-13,101.0,"Comedy, Drama, Romance",Hulu
+Movie,Dealin' With Idiots,"July 1, 2021",2013,R,87.0,Comedy,Hulu
+Movie,Dear White People,"July 1, 2021",2014,R,108.0,"Comedy, Drama",Hulu
+Movie,Donnybrook,"July 1, 2021",2018,R,102.0,"Drama, Mystery, Thriller",Hulu
+Movie,Enemy At The Gates,"July 1, 2021",2001,R,131.0,"Action, Adventure, Drama",Hulu
+Movie,Factotum,"July 1, 2021",2005,R,93.0,"Comedy, Drama",Hulu
+Movie,Frankenstein and the Monster from Hell,"July 1, 2021",1974,R,93.0,Horror,Hulu
+Movie,Graduation,"July 1, 2021",2016,R,127.0,"Crime, Drama, International",Hulu
+Movie,Intermission,"July 1, 2021",2004,R,106.0,"Comedy, Crime, Drama",Hulu
+Movie,Mercury Rising,"July 1, 2021",1998,R,112.0,"Action, Crime, Drama",Hulu
+Movie,Ode to Joy,"July 1, 2021",2019,R,98.0,"Comedy, Romance",Hulu
+Movie,Open Water,"July 1, 2021",2004,R,80.0,"Adventure, Drama, Horror",Hulu
+Movie,Open Water 2: Adrift,"July 1, 2021",2007,R,95.0,"Horror, Thriller",Hulu
+Movie,Personal Shopper,"July 1, 2021",2016,R,105.0,"Drama, Horror, Mystery",Hulu
+Movie,Stonewall,"July 1, 2021",2016,R,129.0,"Drama, History, LGBTQ+",Hulu
+Movie,Sweet Virginia,"July 1, 2021",2017,R,93.0,"Drama, Thriller",Hulu
+Movie,Take Every Wave: The Life of Laird Hamilton,"July 1, 2021",2017,PG,118.0,"Documentaries, Sports",Hulu
+Movie,Take Shelter,"July 1, 2021",2011,R,121.0,"Drama, Horror, Thriller",Hulu
+Movie,The Conversation,"July 1, 2021",1974,PG,114.0,"Classics, Crime, Drama",Hulu
+Movie,The Face of Love,"July 1, 2021",2013,PG-13,92.0,"Drama, Romance",Hulu
+Movie,The Gift,"July 1, 2021",2000,R,112.0,"Drama, Horror",Hulu
+Movie,The Girl With the Dragon Tattoo,"July 1, 2021",2011,R,152.0,"Crime, Drama, Mystery",Hulu
+Movie,They Came Together,"July 1, 2021",2014,R,83.0,"Comedy, Drama, Romance",Hulu
+Movie,Timeline,"July 1, 2021",2003,PG-13,116.0,"Action, Adventure, Science Fiction",Hulu
+Movie,Tooth Fairy,"July 1, 2021",2010,PG,102.0,"Comedy, Family, Kids",Hulu
+Movie,Twisted,"July 1, 2021",2004,R,97.0,"Crime, Drama, Thriller",Hulu
+Movie,Underworld,"July 1, 2021",2003,R,121.0,"Action, Thriller",Hulu
+Movie,Underworld Awakening,"July 1, 2021",2012,R,89.0,"Action, Adventure, Horror",Hulu
+Movie,Underworld: Evolution,"July 1, 2021",2006,TV-14,86.0,"Action, Adventure, Drama",Hulu
+Movie,Underworld: Rise Of The Lycans,"July 1, 2021",2009,R,92.0,"Action, Adventure, Horror",Hulu
+Movie,Hansel & Gretel: Witch Hunters,"June 30, 2021",2013,TV-MA,88.0,"Action, Adventure, Horror",Hulu
+Movie,Jack Reacher,"June 30, 2021",2012,PG-13,127.0,"Action, Adventure, Mystery",Hulu
+Movie,Bratz: The Movie,"June 29, 2021",2007,PG,102.0,"Comedy, Family, Kids",Hulu
+Movie,Harvie and the Magic Museum,"June 29, 2021",2017,TV-PG,86.0,"Action, Adventure, Comedy",Hulu
+Movie,False Positive,"June 25, 2021",2021,TV-MA,93.0,"Horror, Thriller",Hulu
+Movie,Elvis Presley: The Searcher,"June 24, 2021",2018,TV-PG,96.50121457489878,"Documentaries, Music",Hulu
+Movie,Monster Trucks,"June 22, 2021",2017,PG,105.0,"Action, Adventure, Comedy",Hulu
+Movie,The Guilt Trip,"June 20, 2021",2012,TV-14,96.0,"Comedy, Drama",Hulu
+Movie,The Doorman,"June 18, 2021",2020,R,97.0,"Action, Thriller",Hulu
+Movie,Phobias,"June 17, 2021",2021,R,86.0,"Horror, Thriller",Hulu
+Movie,Gone Girl,"June 15, 2021",2014,TV-MA,146.0,"Crime, Drama, Mystery",Hulu
+Movie,Her Deadly Sugar Daddy,"June 15, 2021",2020,TV-14,91.0,"Horror, Thriller",Hulu
+Movie,The Croods: A New Age,"June 9, 2021",2020,PG,95.0,"Action, Adventure, Comedy",Hulu
+Movie,Juan Luis Guerra 4.40: Entre Mar y Palmeras,"June 4, 2021",2021,TV-PG,96.50121457489878,"Documentaries, International, Latino",Hulu
+Movie,Night of the Kings,"June 3, 2021",2020,TV-MA,93.0,"Drama, International",Hulu
+Movie,Bloody Sunday,"June 1, 2021",2002,R,111.0,"Drama, History",Hulu
+Movie,Changing the Game,"June 1, 2021",2021,TV-14,91.0,Documentaries,Hulu
+Movie,Fun in Acapulco,"June 1, 2021",1963,PG,97.0,"Comedy, Music",Hulu
+Movie,Hanging Up,"June 1, 2021",2000,PG-13,95.0,Comedy,Hulu
+Movie,Hud,"June 1, 2021",1963,TV-14,112.0,"Action, Adventure, Drama",Hulu
+Movie,Last Chance Harvey,"June 1, 2021",2008,PG-13,93.0,"Drama, Romance",Hulu
+Movie,Revolutionary Road,"June 1, 2021",2008,R,119.0,"Drama, Romance",Hulu
+Movie,Rules Of Engagement,"June 1, 2021",2000,R,128.0,"Black Stories, Comedy, Drama",Hulu
+Movie,Silence,"June 1, 2021",2016,R,161.0,"Drama, History",Hulu
+Movie,Switchback,"June 1, 2021",1997,R,118.0,"Crime, Mystery, Thriller",Hulu
+Movie,The Adventures of Tintin: The Secret of the Unicorn,"June 1, 2021",2011,PG,107.0,"Action, Adventure, Family",Hulu
+Movie,The Cookout,"June 1, 2021",2004,PG-13,88.0,"Black Stories, Comedy, Drama",Hulu
+Movie,The Love Letter,"June 1, 2021",1999,PG-13,87.0,"Comedy, Drama, Romance",Hulu
+Movie,The Time Machine,"June 1, 2021",2002,PG-13,96.0,"Action, Adventure, Science Fiction",Hulu
+Movie,To Die For,"June 1, 2021",1995,R,106.0,"Comedy, Drama, Thriller",Hulu
+Movie,Walking Tall,"June 1, 2021",1973,R,125.0,"Action, Adventure, Crime",Hulu
+Movie,Wayne's World 2,"June 1, 2021",1993,PG-13,95.0,"Comedy, Music",Hulu
+Movie,Young Adult,"June 1, 2021",2011,R,94.0,"Comedy, Drama, Romance",Hulu
+Movie,The World to Come,"May 31, 2021",2020,R,105.0,"Drama, LGBTQ+, Romance",Hulu
+Movie,Lavell Crawford: The Comedy Vaccine,"May 28, 2021",2021,TV-MA,96.50121457489878,"Comedy, Stand Up",Hulu
+Movie,The Vigil,"May 28, 2021",2019,PG-13,90.0,"Horror, Thriller",Hulu
+Movie,Red Dawn,"May 19, 2021",2012,PG-13,93.0,"Action, Adventure",Hulu
+Movie,Supernova,"May 18, 2021",2020,R,95.0,"Drama, LGBTQ+, Romance",Hulu
+Movie,Supernova en Español,"May 18, 2021",2020,R,95.0,"Drama, LGBTQ+, Romance",Hulu
+Movie,The Mountain Between Us,"May 15, 2021",2017,PG-13,112.0,"Adventure, Drama, Romance",Hulu
+Movie,Saint Maud,"May 13, 2021",2019,R,85.0,Horror,Hulu
+Movie,Robot & Frank,"May 9, 2021",2012,PG-13,89.0,"Comedy, Drama, Science Fiction",Hulu
+Movie,Shadow in the Cloud,"May 5, 2021",2020,R,83.0,"Action, Adventure, Horror",Hulu
+Movie,Skyfall,"May 5, 2021",2012,PG-13,143.0,"Action, Adventure, Thriller",Hulu
+Movie,Flight,"May 2, 2021",2012,TV-MA,139.0,"Black Stories, Drama, Family",Hulu
+Movie,An Elephant's Journey,"May 1, 2021",2017,PG,90.0,"Adventure, Drama",Hulu
+Movie,Blast From the Past,"May 1, 2021",1999,PG-13,112.0,"Comedy, Romance",Hulu
+Movie,Blue Chips,"May 1, 2021",1994,PG-13,108.0,"Drama, Sports",Hulu
+Movie,Bound,"May 1, 2021",1996,R,109.0,"Crime, Drama, LGBTQ+",Hulu
+Movie,Dr. Bird's Advice for Sad Poets,"May 1, 2021",2021,R,109.0,"Comedy, Drama",Hulu
+Movie,Grudge Match,"May 1, 2021",2013,PG-13,113.0,Comedy,Hulu
+Movie,I Love You Phillip Morris,"May 1, 2021",2010,R,98.0,"Comedy, Drama, LGBTQ+",Hulu
+Movie,Junior,"May 1, 2021",1994,PG-13,110.0,"Comedy, Romance",Hulu
+Movie,Resident Evil: Apocalypse,"May 1, 2021",2004,R,94.0,"Action, Adventure, Horror",Hulu
+Movie,Resident Evil: Extinction,"May 1, 2021",2007,R,94.0,"Action, Adventure, Horror",Hulu
+Movie,The Age of Adaline,"May 1, 2021",2015,PG-13,113.0,"Drama, Romance, Science Fiction",Hulu
+Movie,The Indian in the Cupboard,"May 1, 2021",1995,PG,96.0,"Drama, Family, Kids",Hulu
+Movie,The Jackal,"May 1, 2021",1997,R,124.0,"Action, Adventure, Drama",Hulu
+Movie,We Were Soldiers,"May 1, 2021",2002,R,139.0,"Action, Adventure, Drama",Hulu
+Movie,The Judge,"April 30, 2021",2014,R,142.0,"Crime, Drama",Hulu
+Movie,Arrival,"April 28, 2021",2016,PG-13,116.0,"Drama, Horror, Science Fiction",Hulu
+Movie,Sesame Street: 50 Years of Sunny Days,"April 27, 2021",2021,TV-14,96.50121457489878,"Documentaries, News",Hulu
+Movie,Wild Mountain Thyme,"April 25, 2021",2020,PG-13,102.0,"Comedy, Romance",Hulu
+Movie,Better Days,"April 22, 2021",2019,PG,136.0,Drama,Hulu
+Movie,Memories of Murder,"April 20, 2021",2003,TV-MA,131.0,"Crime, Drama, Horror",Hulu
+Movie,Sister of the Groom,"April 17, 2021",2020,R,92.0,"Comedy, Drama, Romance",Hulu
+Movie,Songbird,"April 16, 2021",2021,PG-13,85.0,Thriller,Hulu
+Movie,Deep in Vogue,"April 15, 2021",2019,TV-MA,63.0,"Documentaries, LGBTQ+",Hulu
+Movie,Paranormal Activity 4,"April 12, 2021",2012,R,87.0,"Horror, Thriller",Hulu
+Movie,Spontaneous,"April 12, 2021",2020,R,102.0,"Comedy, Horror",Hulu
+Movie,"Quo Vadis, Aida?","April 9, 2021",2020,TV-MA,104.0,"Action, Adventure, Drama",Hulu
+Movie,Stars Fell on Alabama,"April 9, 2021",2021,PG-13,103.0,"Comedy, Romance",Hulu
+Movie,A Christmas Hero,"April 8, 2021",2020,PG-13,86.0,Drama,Hulu
+Movie,Blair Witch,"April 3, 2021",2016,R,89.0,"Horror, Thriller",Hulu
+Movie,WeWork: or The Making and Breaking of a $47 Billion Unicorn,"April 2, 2021",2021,TV-MA,102.0,Documentaries,Hulu
+Movie,28 Days Later,"April 1, 2021",2003,R,113.0,"Drama, Horror, Science Fiction",Hulu
+Movie,A Hologram for the King,"April 1, 2021",2016,R,98.0,"Comedy, Drama",Hulu
+Movie,Blippi's Great Green Adventure,"April 1, 2021",2021,TV-Y,42.0,Kids,Hulu
+Movie,Chappaquiddick,"April 1, 2021",2017,PG-13,106.0,Drama,Hulu
+Movie,Second Act,"April 1, 2021",2018,PG-13,104.0,"Comedy, Romance",Hulu
+Movie,Shrek 2,"April 1, 2021",2004,TV-PG,120.0,"Adventure, Cartoons, Comedy",Hulu
+Movie,Shrek 2 (en Español),"April 1, 2021",2004,PG,93.0,"Action, Adventure, Comedy",Hulu
+Movie,Sleeping with the Enemy,"April 1, 2021",1991,R,98.0,"Drama, Horror, Thriller",Hulu
+Movie,So I Married An Axe Murderer,"April 1, 2021",1993,PG-13,93.0,"Comedy, Romance",Hulu
+Movie,Step Up Revolution,"April 1, 2021",2012,PG-13,98.0,"Drama, Music, Romance",Hulu
+Movie,Blood Moon,"March 26, 2021",2021,TV-MA,82.0,"Drama, Horror, Science Fiction",Hulu
+Movie,The Hurricane Heist,"March 26, 2021",2018,PG-13,103.0,"Action, Adventure",Hulu
+Movie,Shortcut,"March 25, 2021",2020,R,81.0,"Horror, Thriller",Hulu
+Movie,100% Wolf,"March 23, 2021",2020,TV-PG,96.0,Comedy,Hulu
+Movie,Corporate Animals,"March 15, 2021",2019,R,86.0,Comedy,Hulu
+Movie,Crown Vic,"March 15, 2021",2019,R,110.0,"Action, Thriller",Hulu
+Movie,Grand Isle,"March 15, 2021",2019,TV-MA,97.0,"Action, Thriller",Hulu
+Movie,Robert the Bruce,"March 15, 2021",2019,TV-MA,123.0,"Drama, History",Hulu
+Movie,The Man Who Killed Don Quixote,"March 15, 2021",2018,TV-MA,133.0,"Adventure, Comedy",Hulu
+Movie,Blood and Money,"March 14, 2021",2020,TV-MA,89.0,"Action, Thriller",Hulu
+Movie,Buddy Games,"March 14, 2021",2020,R,97.0,Comedy,Hulu
+Movie,Kid 90,"March 12, 2021",2021,TV-MA,72.0,"Documentaries, Drama",Hulu
+Movie,Jorge Ramos y su Banda,"March 8, 2021",2009,TV-G,96.50121457489878,"Latino, Sports",Hulu
+Movie,Storks,"March 6, 2021",2016,PG,87.0,"Adventure, Cartoons, Comedy",Hulu
+Movie,Ammonite,"March 5, 2021",2020,R,117.0,"Drama, LGBTQ+, Romance",Hulu
+Movie,Beirut,"March 5, 2021",2018,R,109.0,"Drama, Thriller",Hulu
+Movie,Boss Level,"March 5, 2021",2021,TV-MA,94.0,"Action, Thriller",Hulu
+Movie,Attack of the 50 Foot Cheerleader,"March 1, 2021",2012,TV-MA,83.0,"Comedy, News",Hulu
+Movie,Just Married,"March 1, 2021",2003,PG-13,95.0,"Comedy, Drama, Romance",Hulu
+Movie,Neil Young: Heart of Gold,"March 1, 2021",2006,PG,104.0,"Documentaries, Music",Hulu
+Movie,Priceless,"March 1, 2021",2016,PG-13,99.0,"Drama, Mystery, Thriller",Hulu
+Movie,Florence Foster Jenkins,"February 26, 2021",2016,PG-13,111.0,"Comedy, Drama, International",Hulu
+Movie,The United States vs. Billie Holiday,"February 26, 2021",2021,R,130.0,"Black Stories, Drama, History",Hulu
+Movie,Dredd,"February 23, 2021",2012,R,96.0,"Action, Adventure, Science Fiction",Hulu
+Movie,Sonic the Hedgehog,"February 18, 2021",2020,PG,99.0,"Adventure, Comedy, Kids",Hulu
+Movie,The March on Washington: Keepers of the Dream,"February 18, 2021",2021,TV-14,96.50121457489878,History,Hulu
+Movie,Logan Lucky,"February 17, 2021",2017,PG-13,119.0,"Comedy, Crime, Drama",Hulu
+Movie,The Warrior Queen of Jhansi,"February 16, 2021",2019,R,103.0,"Drama, History",Hulu
+Movie,Lost Girls & Love Hotels,"February 15, 2021",2020,R,97.0,"Drama, Romance",Hulu
+Movie,Mommy is a Murderer,"February 15, 2021",2020,TV-14,86.0,"Drama, Horror, Thriller",Hulu
+Movie,Tempted by Danger,"February 15, 2021",2020,TV-14,88.0,"Horror, Thriller",Hulu
+Movie,The Shape of Water,"February 15, 2021",2017,R,123.0,"Drama, Romance, Science Fiction",Hulu
+Movie,Havana Street Party Presents: Beatriz Luengo,"February 13, 2021",2021,TV-PG,96.50121457489878,"Documentaries, Music, News",Hulu
+Movie,Tentacles,"February 12, 2021",2021,TV-MA,84.0,Horror,Hulu
+Movie,You're Next,"February 12, 2021",2011,R,95.0,"Horror, Thriller",Hulu
+Movie,Then Came You,"February 11, 2021",2020,PG-13,98.0,"Comedy, Romance",Hulu
+Movie,Beach Rats,"February 6, 2021",2018,R,98.0,"Drama, LGBTQ+",Hulu
+Movie,Antebellum,"February 5, 2021",2020,R,106.0,"Black Stories, Thriller",Hulu
+Movie,"Hello, My Name Is Doris","February 1, 2021",2015,R,90.0,"Comedy, Drama",Hulu
+Movie,Possessor,"February 1, 2021",2020,R,104.0,"Horror, Science Fiction, Thriller",Hulu
+Movie,The Haunting in Connecticut,"February 1, 2021",2009,PG-13,103.0,"Drama, Horror, Thriller",Hulu
+Movie,The Undefeated,"January 30, 2021",2017,TV-G,96.50121457489878,Sports,Hulu
+Movie,Ingrid Goes West,"January 23, 2021",2017,R,98.0,Comedy,Hulu
+Movie,Derek DelGaudio’s In & Of Itself,"January 22, 2021",2021,TV-MA,90.0,"Documentaries, Drama",Hulu
+Movie,Terra Willy: Unexplored Planet,"January 22, 2021",2019,PG,90.0,"Adventure, Comedy, Kids",Hulu
+Movie,The Secrets We Keep,"January 14, 2021",2020,R,98.0,Thriller,Hulu
+Movie,Lights Out,"January 11, 2021",2016,PG-13,81.0,"Horror, Thriller",Hulu
+Movie,The Rhythm Section,"January 11, 2021",2020,R,110.0,"Action, Thriller",Hulu
+Movie,Gretel & Hansel,"January 7, 2021",2020,PG-13,87.0,"Drama, Horror, Mystery",Hulu
+Movie,Gordon Ramsay's American Road Trip,"January 6, 2021",2021,TV-14,96.50121457489878,"Cooking & Food, Lifestyle & Culture",Hulu
+Movie,Mighty Oak,"January 6, 2021",2020,PG-13,101.0,"Comedy, Drama, Music",Hulu
+Movie,Diary of a Wimpy Kid,"January 1, 2021",2010,PG,93.0,"Comedy, Family, Kids",Hulu
+Movie,Donnie Brasco,"January 1, 2021",1997,R,127.0,"Crime, Drama",Hulu
+Movie,Footloose,"January 1, 2021",1984,PG,107.0,"Classics, Drama, Music",Hulu
+Movie,Hell or High Water,"January 1, 2021",2016,R,102.0,"Action, Adventure, Crime",Hulu
+Movie,How Do You Know,"January 1, 2021",2010,PG-13,121.0,"Comedy, Drama, Romance",Hulu
+Movie,Save Yourselves!,"January 1, 2021",2020,R,94.0,"Comedy, Science Fiction",Hulu
+Movie,Shrek,"January 1, 2021",2001,TV-PG,120.0,"Action, Adventure, Cartoons",Hulu
+Movie,Star Trek Beyond,"January 1, 2021",2016,PG-13,122.0,"Action, Adventure, Family",Hulu
+Movie,The Haunting,"January 1, 2021",1999,PG-13,113.0,Horror,Hulu
+Movie,Where Hope Grows,"January 1, 2021",2015,PG-13,98.0,"Drama, Family",Hulu
+Movie,Bayou Caviar,"December 31, 2020",2018,TV-MA,111.0,"Black Stories, Drama, Horror",Hulu
+Movie,American Animals,"December 27, 2020",2018,R,117.0,"Crime, Drama, Horror",Hulu
+Movie,Soldiers of Fortune,"December 25, 2020",2012,R,94.0,"Action, Adventure, Thriller",Hulu
+Movie,The Little Hours,"December 23, 2020",2017,R,89.0,Comedy,Hulu
+Movie,You Cannot Kill David Arquette,"December 22, 2020",2020,R,91.0,Documentaries,Hulu
+Movie,The Hero,"December 18, 2020",2017,R,97.0,Drama,Hulu
+Movie,Au Pair 3: Adventure in Paradise,"December 16, 2020",2009,TV-PG,90.0,"Comedy, Drama",Hulu
+Movie,Rogue,"December 11, 2020",2020,R,106.0,"Action, Thriller",Hulu
+Movie,Spy Cat,"December 11, 2020",2018,PG,85.0,"Adventure, Comedy, Family",Hulu
+Movie,The Fairy Princess and the Unicorn,"December 8, 2020",2019,TV-PG,80.0,"Action, Adventure, Family",Hulu
+Movie,Valley Girl,"December 7, 2020",2020,PG-13,103.0,Romance,Hulu
+Movie,The Secret Garden,"December 6, 2020",2020,PG,100.0,"Drama, Family, Science Fiction",Hulu
+Movie,It Had to Be You,"December 5, 2020",2016,R,85.0,"Comedy, Romance",Hulu
+Movie,MACHO: THE HECTOR CAMACHO STORY,"December 4, 2020",2020,TV-14,96.50121457489878,"Documentaries, Sports",Hulu
+Movie,She Dies Tomorrow,"December 4, 2020",2020,R,85.0,"Drama, Thriller",Hulu
+Movie,Rebuilding Paradise,"December 2, 2020",2020,TV-14,88.0,Documentaries,Hulu
+Movie,Angels & Demons,"December 1, 2020",2009,PG-13,139.0,"Mystery, Thriller",Hulu
+Movie,Euphoria,"December 1, 2020",2017,R,98.0,Drama,Hulu
+Movie,The Da Vinci Code,"December 1, 2020",2006,TV-14,149.0,"Adventure, Drama, Mystery",Hulu
+Movie,The Big Ugly,"November 29, 2020",2020,R,106.0,"Crime, Drama",Hulu
+Movie,Bombshell,"November 26, 2020",2019,R,109.0,Drama,Hulu
+Movie,Happiest Season,"November 25, 2020",2020,PG-13,102.0,"Comedy, Romance",Hulu
+Movie,UFC 252,"November 25, 2020",2020,TV-14,96.50121457489878,Sports,Hulu
+Movie,Between the World and Me,"November 22, 2020",2020,TV-14,96.50121457489878,"Documentaries, Drama, News",Hulu
+Movie,Run.,"November 20, 2020",2020,PG-13,89.0,"Drama, Horror, Thriller",Hulu
+Movie,Tesla,"November 20, 2020",2020,PG-13,102.0,"Drama, History",Hulu
+Movie,Amulet,"November 19, 2020",2020,R,100.0,"Horror, Thriller",Hulu
+Movie,Body Cam,"November 18, 2020",2020,R,97.0,"Black Stories, Horror, Thriller",Hulu
+Movie,McQueen,"November 18, 2020",2018,R,111.0,Documentaries,Hulu
+Movie,69: The Saga of Danny Hernandez,"November 16, 2020",2020,TV-MA,102.0,"Documentaries, Music",Hulu
+Movie,A Nice Girl Like You,"November 15, 2020",2020,R,94.0,"Comedy, Romance",Hulu
+Movie,Christmas Crush,"November 15, 2020",2019,TV-G,89.0,"Comedy, Romance",Hulu
+Movie,Ramen Heads,"November 15, 2020",2017,PG,93.0,Documentaries,Hulu
+Movie,Roller Dreams,"November 15, 2020",2017,PG,80.0,"Black Stories, Documentaries",Hulu
+Movie,"Soul On Ice: Past, Present and Future","November 15, 2020",2016,TV-14,86.0,"Black Stories, Documentaries, Sports",Hulu
+Movie,Suburban Gothic,"November 15, 2020",2015,R,90.0,"Comedy, Horror",Hulu
+Movie,ULAM: Main Dish,"November 15, 2020",2018,PG,80.0,Documentaries,Hulu
+Movie,The Dictator,"November 14, 2020",2012,TV-MA,83.0,Comedy,Hulu
+Movie,12 Years a Slave,"November 13, 2020",2013,R,134.0,"Black Stories, Drama, History",Hulu
+Movie,I Am Greta,"November 13, 2020",2020,TV-14,97.0,Documentaries,Hulu
+Movie,I Am Greta (Swedish Narration),"November 13, 2020",2020,TV-14,97.0,Documentaries,Hulu
+Movie,The Secret Life of Walter Mitty,"November 13, 2020",2013,TV-MA,109.0,"Action, Adventure, Comedy",Hulu
+Movie,Entre Nos: About Last Night,"November 12, 2020",2019,TV-MA,96.50121457489878,"Comedy, News, Stand Up",Hulu
+Movie,The Man Who Invented Christmas,"November 12, 2020",2017,PG,104.0,"Drama, History",Hulu
+Movie,Tonight You're Mine,"November 11, 2020",2011,R,80.0,"Comedy, Romance",Hulu
+Movie,The Nice Guys,"November 9, 2020",2016,R,116.0,"Action, Comedy, Crime",Hulu
+Movie,General Commander,"November 3, 2020",2020,R,85.0,Action,Hulu
+Movie,The Assault,"November 3, 2020",2017,R,72.0,"Action, Thriller",Hulu
+Movie,A Christmas Solo,"November 1, 2020",2017,TV-PG,89.0,"Drama, Romance",Hulu
+Movie,All Summers End,"November 1, 2020",2017,TV-14,87.0,Drama,Hulu
+Movie,Avenues,"November 1, 2020",2017,TV-MA,77.0,"Comedy, Drama",Hulu
+Movie,Baby Steps,"November 1, 2020",2017,TV-MA,102.0,"Comedy, Drama",Hulu
+Movie,Brand New Old Love,"November 1, 2020",2018,TV-14,97.0,Comedy,Hulu
+Movie,Elf,"November 1, 2020",2003,PG,97.0,"Comedy, Family, Kids",Hulu
+Movie,Firewalker,"November 1, 2020",1986,PG,105.0,"Action, Adventure, Comedy",Hulu
+Movie,Good Will Hunting,"November 1, 2020",1997,R,127.0,Drama,Hulu
+Movie,Hollow Man,"November 1, 2020",2000,R,106.0,"Action, Horror, Science Fiction",Hulu
+Movie,Never Been Kissed,"November 1, 2020",1999,PG-13,108.0,"Comedy, Romance",Hulu
+Movie,Paws P.I.,"November 1, 2020",2018,PG,86.0,"Comedy, Family, Kids",Hulu
+Movie,Rag Doll,"November 1, 2020",2019,TV-MA,104.0,"Action, Drama",Hulu
+Movie,The Expendables,"November 1, 2020",2010,R,120.0,"Action, Adventure",Hulu
+Movie,The Expendables 2,"November 1, 2020",2012,TV-14,136.0,"Action, Adventure",Hulu
+Movie,The Expendables 3,"November 1, 2020",2014,TV-14,117.0,"Action, Adventure",Hulu
+Movie,Wetlands,"November 1, 2020",2017,TV-MA,98.0,"Black Stories, Crime, Drama",Hulu
+Movie,Citizen Bio,"October 30, 2020",2020,TV-MA,96.50121457489878,Documentaries,Hulu
+Movie,What to Expect When You're Expecting,"October 26, 2020",2012,TV-14,110.0,"Comedy, Drama, Romance",Hulu
+Movie,Bad Hair,"October 23, 2020",2020,TV-MA,103.0,"Black Stories, Horror",Hulu
+Movie,Beyond the Headlines: Escaping the NXIVM Cult with Gretchen Carlson,"October 23, 2020",2019,TV-14,96.50121457489878,"Crime, Documentaries",Hulu
+Movie,"Cyrano, My Love","October 21, 2020",2018,R,113.0,"Comedy, Drama",Hulu
+Movie,Madagascar: A Little Wild - A Fang-Tastic Halloween,"October 21, 2020",2020,G,23.0,"Cartoons, Family, Kids",Hulu
+Movie,The Broken Land,"October 21, 2020",1962,TV-PG,60.0,"Action, Adventure, Drama",Hulu
+Movie,Celeste & Jesse Forever,"October 20, 2020",2012,R,92.0,"Comedy, Drama, Romance",Hulu
+Movie,Friend Request,"October 18, 2020",2016,R,92.0,"Horror, Thriller",Hulu
+Movie,Bad Hombres,"October 16, 2020",2020,TV-14,96.50121457489878,"Documentaries, Sports",Hulu
+Movie,Earth to Echo,"October 16, 2020",2014,PG,91.0,"Adventure, Drama, Family",Hulu
+Movie,Emperor,"October 16, 2020",2020,PG-13,99.0,"Drama, History",Hulu
+Movie,Mona Lisa Smile,"October 16, 2020",2003,PG-13,120.0,"Drama, Romance",Hulu
+Movie,QT8: The First Eight,"October 16, 2020",2019,TV-MA,101.0,Documentaries,Hulu
+Movie,Hotel Transylvania,"October 14, 2020",2012,TV-PG,86.0,"Comedy, Family, Kids",Hulu
+Movie,Entre Nos Presents: Shayla Rivera: It's Not Rocket Science,"October 10, 2020",2020,TV-14,96.50121457489878,"Comedy, Latino, News",Hulu
+Movie,High Fidelity,"October 9, 2020",2000,R,114.0,"Comedy, Romance",Hulu
+Movie,Surrogates,"October 9, 2020",2009,PG-13,89.0,"Action, Adventure, Science Fiction",Hulu
+Movie,Terminator: Dark Fate,"October 9, 2020",2019,R,128.0,"Action, Science Fiction",Hulu
+Movie,Books of Blood,"October 7, 2020",2020,TV-MA,107.0,"Drama, Horror, Mystery",Hulu
+Movie,Colossal,"October 5, 2020",2016,R,109.0,"Comedy, Science Fiction",Hulu
+Movie,Across the Line,"October 1, 2020",2015,TV-MA,87.0,"Black Stories, Drama",Hulu
+Movie,Blade: Trinity,"October 1, 2020",2004,R,108.0,"Action, Adventure",Hulu
+Movie,Guess Who,"October 1, 2020",2005,PG-13,105.0,"Black Stories, Comedy",Hulu
+Movie,Halloween Wars,"October 1, 2020",2011,TV-G,96.50121457489878,"Cooking & Food, Lifestyle & Culture, Reality",Hulu
+Movie,Kindred Spirits (2019),"October 1, 2020",2019,TV-14,92.0,"Drama, Thriller",Hulu
+Movie,Next Level,"October 1, 2020",2019,TV-PG,1.0,"Drama, Family",Hulu
+Movie,Sex Ed,"October 1, 2020",2014,TV-MA,92.0,"Comedy, Drama, Romance",Hulu
+Movie,Spider-Man 3,"October 1, 2020",2007,PG-13,135.0,"Action, Adventure, Family",Hulu
+Movie,Stripped: Los Angeles,"October 1, 2020",2020,TV-MA,96.50121457489878,Documentaries,Hulu
+Movie,The Express,"October 1, 2020",2008,PG,130.0,Drama,Hulu
+Movie,The Sandman,"October 1, 2020",2017,R,89.0,Horror,Hulu
+Movie,Inherit the Viper,"September 29, 2020",2019,R,84.0,"Crime, Drama, Thriller",Hulu
+Movie,Trauma Center,"September 29, 2020",2019,R,87.0,"Action, Thriller",Hulu
+Movie,UFC Ultimate Knockouts,"September 29, 2020",2014,TV-14,96.50121457489878,Sports,Hulu
+Movie,Judy,"September 25, 2020",2019,PG-13,118.0,"Drama, History, Music",Hulu
+Movie,The Addams Family,"September 22, 2020",2019,PG,87.0,"Comedy, Kids",Hulu
+Movie,Stars and Strife,"September 21, 2020",2020,TV-PG,96.50121457489878,Documentaries,Hulu
+Movie,Buttons: A Christmas Tale,"September 18, 2020",2018,PG,88.0,"Drama, Family, Kids",Hulu
+Movie,Gemini Man,"September 18, 2020",2019,PG-13,117.0,"Action, Adventure, Black Stories",Hulu
+Movie,StarDog and TurboCat,"September 18, 2020",2019,PG,91.0,"Action, Adventure, Comedy",Hulu
+Movie,The Fight,"September 18, 2020",2020,PG-13,98.0,Documentaries,Hulu
+Movie,The Master of Disguise,"September 18, 2020",2002,PG,81.0,"Comedy, Family, Kids",Hulu
+Movie,My Soul to Take,"September 16, 2020",2010,R,91.0,"Horror, Mystery, Thriller",Hulu
+Movie,Ozzy,"September 15, 2020",2016,G,91.0,"Action, Adventure, Comedy",Hulu
+Movie,The Etruscan Smile,"September 14, 2020",2018,R,108.0,Drama,Hulu
+Movie,Prisoners,"September 10, 2020",2013,R,153.0,"Crime, Drama, Horror",Hulu
+Movie,Hooking Up,"September 4, 2020",2020,R,105.0,"Comedy, Drama",Hulu
+Movie,Anthropoid,"September 2, 2020",2016,R,121.0,"Action, Adventure, Drama",Hulu
+Movie,Hell on the Border,"September 2, 2020",2019,R,110.0,"Action, Adventure",Hulu
+Movie,I Feel Pretty,"September 1, 2020",2018,PG-13,111.0,Comedy,Hulu
+Movie,Mississippi Burning,"September 1, 2020",1989,R,127.0,"Classics, Crime, Drama",Hulu
+Movie,Playmobil: The Movie,"September 1, 2020",2019,PG,100.0,"Action, Adventure, Comedy",Hulu
+Movie,Rambo,"September 1, 2020",2008,R,91.0,"Action, Adventure",Hulu
+Movie,Strike,"September 1, 2020",2018,TV-G,101.0,"Action, Adventure, Comedy",Hulu
+Movie,The Festival,"September 1, 2020",2018,R,98.0,Comedy,Hulu
+Movie,Trolls World Tour,"September 1, 2020",2020,PG,91.0,"Action, Adventure, Comedy",Hulu
+Movie,Primal,"August 31, 2020",2019,R,97.0,Action,Hulu
+Movie,The Courier,"August 31, 2020",2019,R,100.0,Action,Hulu
+Movie,The Binge,"August 28, 2020",2020,TV-MA,98.0,Comedy,Hulu
+Movie,The Cup,"August 18, 2020",2012,PG,97.0,"Drama, Sports",Hulu
+Movie,Behind You,"August 16, 2020",2020,R,86.0,Horror,Hulu
+Movie,Before Midnight,"August 14, 2020",2013,R,109.0,"Drama, Romance",Hulu
+Movie,Bernie the Dolphin 2,"August 14, 2020",2019,G,99.0,"Comedy, Kids",Hulu
+Movie,Come As You Are,"August 14, 2020",2019,TV-MA,107.0,"Comedy, Drama",Hulu
+Movie,Hard Night Falling,"August 10, 2020",2019,R,86.0,"Action, Adventure, Drama",Hulu
+Movie,Lucky Day,"August 10, 2020",2019,R,99.0,"Action, Thriller",Hulu
+Movie,Coda,"August 7, 2020",2019,TV-14,97.0,Drama,Hulu
+Movie,Slay the Dragon,"August 6, 2020",2019,PG-13,104.0,"Black Stories, Documentaries",Hulu
+Movie,The Peanut Butter Falcon,"August 6, 2020",2019,PG-13,97.0,"Action, Adventure, Comedy",Hulu
+Movie,Dora and the Lost City of Gold,"August 3, 2020",2019,PG,102.0,"Adventure, Comedy, Kids",Hulu
+Movie,Jerry Garcia: It's Not My Weekend,"August 3, 2020",2019,TV-MA,96.50121457489878,"Comedy, Latino",Hulu
+Movie,Ordinary Love,"August 3, 2020",2019,R,92.0,"Drama, Romance",Hulu
+Movie,Shark vs. Surfer,"August 3, 2020",2020,TV-14,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,'71,"August 1, 2020",2014,R,99.0,"Action, Adventure, Drama",Hulu
+Movie,Are We Done Yet?,"August 1, 2020",2007,TV-PG,90.0,"Black Stories, Comedy, Family",Hulu
+Movie,City Slickers,"August 1, 2020",1991,PG-13,114.0,Comedy,Hulu
+Movie,Rustlers' Rhapsody,"August 1, 2020",1985,PG,89.0,"Action, Adventure, Comedy",Hulu
+Movie,Safe,"August 1, 2020",2012,R,95.0,"Action, Adventure, Horror",Hulu
+Movie,Sordid Lives,"August 1, 2020",2000,R,111.0,"Comedy, LGBTQ+",Hulu
+Movie,The Last Stand,"August 1, 2020",2013,R,107.0,"Action, Adventure",Hulu
+Movie,Ultraviolet,"August 1, 2020",2006,PG-13,87.0,"Action, Adventure, Drama",Hulu
+Movie,United Sharks of America: Shark Bite Capitals,"August 1, 2020",2020,TV-14,96.50121457489878,Science & Technology,Hulu
+Movie,Mega Hammerhead: Ultimate Predator,"July 31, 2020",2020,TV-PG,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,What the Shark?,"July 30, 2020",2020,TV-PG,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,Shark vs. Whale,"July 29, 2020",2020,TV-PG,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,Good Deeds,"July 27, 2020",2012,TV-14,110.0,"Black Stories, Drama, Romance",Hulu
+Movie,Raging Bull Shark,"July 27, 2020",2020,TV-14,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,World's Biggest Great White? Expedition Hawaii,"July 27, 2020",2020,TV-PG,96.50121457489878,Documentaries,Hulu
+Movie,Sharkcano,"July 22, 2020",2020,TV-PG,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,Sharks vs. Dolphins: Blood Battle,"July 21, 2020",2020,TV-14,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,The Last Full Measure,"July 21, 2020",2019,R,116.0,"Action, Adventure, Drama",Hulu
+Movie,The Assistant,"July 20, 2020",2019,R,87.0,Drama,Hulu
+Movie,World's Biggest Tiger Shark?,"July 20, 2020",2020,TV-PG,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,Marianne & Leonard: Words of Love,"July 19, 2020",2019,R,101.0,"Documentaries, Music",Hulu
+Movie,Ana,"July 17, 2020",2020,TV-14,106.0,"Comedy, Drama",Hulu
+Movie,The Current Occupant,"July 17, 2020",2020,TV-MA,86.0,Horror,Hulu
+Movie,The Pickup Game,"July 17, 2020",2019,TV-MA,98.0,Documentaries,Hulu
+Movie,The Wolf Hour,"July 17, 2020",2019,R,99.0,"Drama, Mystery, Thriller",Hulu
+Movie,We Are Freestyle Love Supreme,"July 17, 2020",2020,TV-MA,86.0,"Documentaries, Music",Hulu
+Movie,The Traitor,"July 15, 2020",2019,R,151.0,"Crime, Drama, International",Hulu
+Movie,The Weekend,"July 15, 2020",2018,R,86.0,"Black Stories, Comedy",Hulu
+Movie,Superpower Dogs,"July 11, 2020",2019,G,46.0,"Documentaries, Kids",Hulu
+Movie,I Am Not Your Negro,"July 3, 2020",2016,PG-13,94.0,"Black Stories, Documentaries",Hulu
+Movie,The House That Jack Built,"July 2, 2020",2018,R,151.0,"Crime, Drama, Horror",Hulu
+Movie,Citizen Soldier,"July 1, 2020",2016,R,105.0,Documentaries,Hulu
+Movie,Rebel in the Rye,"July 1, 2020",2017,PG-13,109.0,"Drama, History",Hulu
+Movie,The Cured,"July 1, 2020",2017,R,95.0,"Drama, Horror, Thriller",Hulu
+Movie,The Hornet's Nest,"July 1, 2020",2014,R,97.0,Documentaries,Hulu
+Movie,Mission: Impossible - Ghost Protocol,"June 30, 2020",2011,TV-14,128.0,"Action, Adventure",Hulu
+Movie,The Gallows Act II,"June 30, 2020",2019,R,100.0,"Horror, Thriller",Hulu
+Movie,Wild Nights With Emily,"June 26, 2020",2018,PG-13,86.0,"Comedy, LGBTQ+",Hulu
+Movie,Once Were Brothers: Robbie Robertson and The Band,"June 25, 2020",2019,R,102.0,"Documentaries, Music",Hulu
+Movie,XX,"June 22, 2020",2017,R,81.0,Horror,Hulu
+Movie,Crawl,"June 18, 2020",2019,R,87.0,"Horror, Thriller",Hulu
+Movie,Pan,"June 14, 2020",2015,PG,112.0,"Action, Adventure, Family",Hulu
+Movie,Eye In The Sky,"June 13, 2020",2015,R,102.0,"Drama, Thriller",Hulu
+Movie,Child's Play,"June 12, 2020",2019,R,90.0,"Horror, Thriller",Hulu
+Movie,Clemency,"June 12, 2020",2019,R,112.0,"Black Stories, Drama",Hulu
+Movie,Good Boy,"June 12, 2020",2020,TV-MA,89.0,"Horror, Thriller",Hulu
+Movie,LA 92,"June 12, 2020",2017,TV-MA,114.0,"Black Stories, Documentaries",Hulu
+Movie,A Beautiful Planet,"June 11, 2020",2016,G,46.0,"Documentaries, Kids",Hulu
+Movie,Journey to the South Pacific,"June 11, 2020",2013,G,40.0,"Documentaries, Kids",Hulu
+Movie,Pandas,"June 11, 2020",2018,G,42.0,"Documentaries, Kids",Hulu
+Movie,Frankie,"June 5, 2020",2019,PG-13,100.0,Drama,Hulu
+Movie,Shirley,"June 5, 2020",2020,R,107.0,"Drama, Horror, Thriller",Hulu
+Movie,A Beautiful Day in the Neighborhood,"June 2, 2020",2019,PG,109.0,Drama,Hulu
+Movie,Above and Beyond,"June 1, 2020",2014,TV-14,86.0,Documentaries,Hulu
+Movie,Dirty Dancing: Havana Nights,"June 1, 2020",2004,TV-14,83.0,"Drama, Music, Romance",Hulu
+Movie,Equilibrium,"June 1, 2020",2002,R,107.0,Science Fiction,Hulu
+Movie,Happily N'Ever After,"June 1, 2020",2007,PG,87.0,"Action, Adventure, Comedy",Hulu
+Movie,Spider-Man,"June 1, 2020",2002,PG-13,121.0,"Action, Adventure, Family",Hulu
+Movie,Spider-Man 2,"June 1, 2020",2004,PG-13,128.0,"Action, Adventure, Family",Hulu
+Movie,I Still Believe,"May 26, 2020",2020,PG,116.0,"Drama, Music, Romance",Hulu
+Movie,The Tracker,"May 25, 2020",2019,R,87.0,"Action, Adventure, Horror",Hulu
+Movie,AKA Jane Roe,"May 23, 2020",2020,TV-MA,96.50121457489878,"Documentaries, History",Hulu
+Movie,Premature,"May 22, 2020",2019,R,90.0,"Black Stories, Drama, Romance",Hulu
+Movie,Rocketman,"May 22, 2020",2019,R,121.0,"Drama, LGBTQ+, Music",Hulu
+Movie,My Friend Dahmer,"May 15, 2020",2017,R,109.0,"Drama, Horror",Hulu
+Movie,Saving Flora,"May 15, 2020",2018,TV-PG,96.0,"Action, Adventure, Drama",Hulu
+Movie,The Boy Downstairs,"May 15, 2020",2018,TV-14,91.0,"Comedy, Romance",Hulu
+Movie,Delivered,"May 8, 2020",2020,TV-MA,80.0,"Horror, Thriller",Hulu
+Movie,The Hustle,"May 7, 2020",2019,PG-13,94.0,Comedy,Hulu
+Movie,Fine Lines,"May 6, 2020",2019,PG,98.0,Documentaries,Hulu
+Movie,Pain and Glory,"May 6, 2020",2019,R,113.0,"Drama, International",Hulu
+Movie,The 33,"May 5, 2020",2015,PG-13,127.0,Drama,Hulu
+Movie,The Lodge,"May 5, 2020",2019,R,108.0,"Horror, Thriller",Hulu
+Movie,After Class,"May 4, 2020",2019,TV-MA,94.0,"Comedy, Drama",Hulu
+Movie,Christine,"May 1, 2020",2016,R,119.0,Drama,Hulu
+Movie,Ghost Team (Unrated),"May 1, 2020",2016,PG-13,85.0,"Action, Adventure, Comedy",Hulu
+Movie,The Dinner,"May 1, 2020",2017,R,120.0,"Drama, Horror, Thriller",Hulu
+Movie,Toxic Beauty,"April 27, 2020",2019,TV-PG,91.0,Documentaries,Hulu
+Movie,Cunningham,"April 23, 2020",2019,PG,93.0,"Documentaries, Music",Hulu
+Movie,A Kind of Murder,"April 20, 2020",2016,R,96.0,"Crime, Drama, Horror",Hulu
+Movie,Paranormal Activity 3,"April 20, 2020",2011,R,84.0,"Horror, Thriller",Hulu
+Movie,2 Days in Paris,"April 15, 2020",2007,R,101.0,"Comedy, Drama, Romance",Hulu
+Movie,Vault,"April 14, 2020",2019,R,99.0,"Crime, Drama",Hulu
+Movie,13 Assassins,"April 8, 2020",2011,R,125.0,"Action, Adventure, Drama",Hulu
+Movie,Barking Dogs Never Bite,"April 8, 2020",2000,NR,110.0,"Comedy, International",Hulu
+Movie,Cashback,"April 8, 2020",2007,R,102.0,"Comedy, Drama, International",Hulu
+Movie,Force Majeure,"April 8, 2020",2014,R,120.0,"Comedy, Drama",Hulu
+Movie,Jesus Camp,"April 8, 2020",2006,PG-13,85.0,Documentaries,Hulu
+Movie,Let the Right One In,"April 8, 2020",2008,R,115.0,"Drama, Horror, International",Hulu
+Movie,Melancholia,"April 8, 2020",2011,R,135.0,"Drama, Science Fiction",Hulu
+Movie,Mother,"April 8, 2020",2009,R,129.0,"Crime, Drama, Horror",Hulu
+Movie,Parasite,"April 8, 2020",2019,R,132.0,"Comedy, Drama, Horror",Hulu
+Movie,The Host,"April 8, 2020",2006,R,120.0,"Horror, Science Fiction, Thriller",Hulu
+Movie,The Queen of Versailles,"April 8, 2020",2012,PG,101.0,Documentaries,Hulu
+Movie,Pooka Lives!,"April 3, 2020",2020,TV-MA,80.0,Horror,Hulu
+Movie,Portrait of a Lady on Fire,"March 27, 2020",2019,R,121.0,"Drama, History, LGBTQ+",Hulu
+Movie,Brown Girl Begins,"March 26, 2020",2018,TV-14,84.0,Science Fiction,Hulu
+Movie,Margaret Atwood: A Word After a Word After a Word is Power,"March 20, 2020",2020,TV-MA,93.0,Documentaries,Hulu
+Movie,Big Time Adolescence,"March 13, 2020",2020,R,91.0,Comedy,Hulu
+Movie,Monos,"March 9, 2020",2019,R,103.0,"Adventure, International, Thriller",Hulu
+Movie,Crawlers,"March 6, 2020",2020,TV-MA,81.0,Horror,Hulu
+Movie,Getaway,"February 19, 2020",2013,PG-13,90.0,"Action, Adventure, Horror",Hulu
+Movie,And So It Goes,"February 15, 2020",2014,PG-13,94.0,"Comedy, Drama, Romance",Hulu
+Movie,Oculus,"February 15, 2020",2013,R,104.0,"Horror, Thriller",Hulu
+Movie,Racetime,"February 14, 2020",2018,PG,90.0,"Action, Adventure, Comedy",Hulu
+Movie,Sea of Shadows,"February 11, 2020",2019,TV-14,105.0,"Crime, Documentaries, Drama",Hulu
+Movie,Alive,"February 9, 2020",2019,TV-PG,67.0,Documentaries,Hulu
+Movie,My Valentine,"February 7, 2020",2020,TV-MA,79.0,"Horror, Thriller",Hulu
+Movie,Angel of Mine,"February 6, 2020",2019,R,98.0,"Drama, Horror, Mystery",Hulu
+Movie,The Cave,"February 6, 2020",2019,TV-14,97.0,Documentaries,Hulu
+Movie,UFC 246,"February 3, 2020",2020,TV-14,96.50121457489878,Sports,Hulu
+Movie,My little Pony Crystal Princess: The Runaway Rainbow en Español,"January 31, 2020",2006,G,46.0,Kids,Hulu
+Movie,My little Pony: A Very Minty Christmas en Español,"January 31, 2020",2014,G,44.0,Kids,Hulu
+Movie,My Little Pony: The Princess Promenade en Español,"January 31, 2020",2006,G,51.0,Kids,Hulu
+Movie,My little Pony: Twinkle Wish Adventure en Español,"January 31, 2020",2009,G,44.0,Kids,Hulu
+Movie,Brian Banks,"January 27, 2020",2019,PG-13,99.0,"Black Stories, Drama",Hulu
+Movie,Luce,"January 27, 2020",2019,R,110.0,"Black Stories, Drama",Hulu
+Movie,Emanuel,"January 20, 2020",2019,TV-14,76.0,Documentaries,Hulu
+Movie,"Life, Animated","January 19, 2020",2016,PG,92.0,Documentaries,Hulu
+Movie,Rare Exports: A Christmas Tale,"January 15, 2020",2010,R,83.0,"Action, Adventure, Comedy",Hulu
+Movie,We Need to Talk About Kevin,"January 15, 2020",2011,R,113.0,"Drama, International",Hulu
+Movie,The Art of Self-Defense,"January 6, 2020",2019,R,104.0,Comedy,Hulu
+Movie,35 and Ticking,"December 31, 2019",2011,R,109.0,"Black Stories, Comedy, Romance",Hulu
+Movie,Beneath the Darkness,"December 31, 2019",2011,R,96.0,"Horror, Thriller",Hulu
+Movie,Cabin Fever: Patient Zero,"December 31, 2019",2014,TV-14,95.0,"Horror, Thriller",Hulu
+Movie,D.L. Hughley: Reset,"December 31, 2019",2012,TV-MA,58.0,"Comedy, Stand Up",Hulu
+Movie,Day of the Falcon,"December 31, 2019",2013,R,130.0,"Action, Adventure, Drama",Hulu
+Movie,Elvira: Mistress of the Dark,"December 31, 2019",1988,PG-13,96.0,"Comedy, Horror",Hulu
+Movie,Hellbound: Hellraiser II,"December 31, 2019",1988,R,99.0,Horror,Hulu
+Movie,Mary,"December 31, 2019",2019,R,85.0,"Horror, Thriller",Hulu
+Movie,Middle of Nowhere,"December 31, 2019",2010,R,95.0,"Comedy, Drama, Romance",Hulu
+Movie,Odd Thomas,"December 31, 2019",2014,TV-14,97.0,"Comedy, Drama, Horror",Hulu
+Movie,The Heart of Christmas,"December 31, 2019",2011,TV-G,90.0,"Drama, Family",Hulu
+Movie,The Numbers Station,"December 31, 2019",2013,R,89.0,"Action, Thriller",Hulu
+Movie,The Tall Man,"December 31, 2019",2012,TV-14,102.0,"Crime, Horror",Hulu
+Movie,Running with the Devil,"December 30, 2019",2019,R,100.0,"Action, Adventure, Crime",Hulu
+Movie,Lil Rel Howery: Live in Crenshaw,"December 29, 2019",2019,TV-MA,96.50121457489878,"Comedy, Stand Up",Hulu
+Movie,Midnight Kiss,"December 27, 2019",2019,TV-MA,89.0,"Horror, LGBTQ+, Thriller",Hulu
+Movie,Lo and Behold: Reveries of the Connected World,"December 23, 2019",2016,PG-13,98.0,Documentaries,Hulu
+Movie,Pokémon the Movie: Diancie and the Cocoon of Destruction,"December 22, 2019",2014,TV-Y7,71.0,"Action, Adventure, Anime",Hulu
+Movie,Pokémon the Movie: Hoopa and the Clash of Ages,"December 22, 2019",2015,TV-Y7,74.0,"Action, Adventure, Anime",Hulu
+Movie,Pokémon The Movie: Volcanion and the Mechanical Marvel,"December 22, 2019",2016,TV-Y7,94.0,"Action, Adventure, Anime",Hulu
+Movie,The Kid,"December 18, 2019",2019,R,100.0,"Action, Adventure, Drama",Hulu
+Movie,Wild Rose,"December 16, 2019",2018,R,101.0,"Comedy, Drama, Music",Hulu
+Movie,Blackfish,"December 12, 2019",2013,PG-13,83.0,Documentaries,Hulu
+Movie,Fast Color,"December 11, 2019",2018,PG-13,102.0,"Drama, Horror, Science Fiction",Hulu
+Movie,My Little Pony Crystal Princess: The Runaway Rainbow,"December 10, 2019",2006,TV-Y,46.0,"Family, Kids",Hulu
+Movie,My Little Pony: A Very Minty Christmas,"December 10, 2019",2005,TV-Y,44.0,"Action, Adventure, Family",Hulu
+Movie,My Little Pony: The Princess Promenade,"December 10, 2019",2006,TV-Y,51.0,"Action, Adventure, Family",Hulu
+Movie,My Little Pony: Twinkle Wish Adventure,"December 10, 2019",2009,TV-Y,44.0,"Action, Adventure, Family",Hulu
+Movie,Eddie Griffin: E-Niggma,"December 6, 2019",2019,TV-MA,96.50121457489878,"Comedy, News, Stand Up",Hulu
+Movie,How to Train Your Dragon: Homecoming,"December 5, 2019",2019,TV-PG,96.50121457489878,"Adventure, Family, Kids",Hulu
+Movie,Killers Anonymous,"December 5, 2019",2019,R,96.0,"Action, Crime, Mystery",Hulu
+Movie,This One's for the Ladies,"December 2, 2019",2018,R,83.0,"Black Stories, Documentaries",Hulu
+Movie,Mike Wallace Is Here,"November 28, 2019",2019,PG-13,91.0,Documentaries,Hulu
+Movie,Astronaut,"November 26, 2019",2019,PG,97.0,Drama,Hulu
+Movie,Love & Mercy,"November 25, 2019",2015,PG-13,122.0,"Drama, Music",Hulu
+Movie,Ice Age: A Mammoth Christmas,"November 24, 2019",2011,TV-PG,96.50121457489878,"Action, Adventure, Comedy",Hulu
+Movie,Booksmart,"November 18, 2019",2019,R,102.0,"Comedy, LGBTQ+",Hulu
+Movie,The Tomorrow Man,"November 18, 2019",2019,PG-13,95.0,"Drama, Romance",Hulu
+Movie,UFC Sound Waves,"November 18, 2019",2017,TV-14,96.50121457489878,"Documentaries, Sports",Hulu
+Movie,Fantastica: A Boonie Bears Adventure,"November 17, 2019",2017,G,84.0,"Adventure, Comedy, Family",Hulu
+Movie,The Biggest Little Farm,"November 6, 2019",2018,PG,92.0,"Documentaries, Family",Hulu
+Movie,Denial,"November 4, 2019",2016,PG-13,110.0,Drama,Hulu
+Movie,Celeste Barber: Challenge Accepted,"November 1, 2019",2019,TV-MA,96.50121457489878,"Comedy, News, Stand Up",Hulu
+Movie,Pilgrim,"November 1, 2019",2019,TV-MA,80.0,Horror,Hulu
+Movie,Sinbad: Legend of the Seven Seas,"November 1, 2019",2003,PG,85.0,"Action, Adventure, Cartoons",Hulu
+Movie,The Nightingale,"November 1, 2019",2018,R,136.0,"Action, Adventure, Drama",Hulu
+Movie,In Search of Greatness,"October 30, 2019",2018,PG-13,77.0,"Documentaries, Sports",Hulu
+Movie,Meeting Gorbachev,"October 30, 2019",2018,TV-PG,91.0,Documentaries,Hulu
+Movie,Wounds,"October 18, 2019",2019,R,95.0,"Horror, Thriller",Hulu
+Movie,Toni Morrison: The Pieces I Am,"October 17, 2019",2019,PG-13,120.0,"Black Stories, Documentaries",Hulu
+Movie,Little Woods,"October 14, 2019",2019,R,103.0,"Black Stories, Drama",Hulu
+Movie,Little Monsters,"October 11, 2019",2019,R,94.0,"Black Stories, Comedy, Horror",Hulu
+Movie,Missing Link,"October 7, 2019",2019,PG,94.0,"Action, Adventure, Comedy",Hulu
+Movie,Uncanny Annie,"October 4, 2019",2019,TV-MA,80.0,Horror,Hulu
+Movie,Amazing Grace,"October 2, 2019",2018,G,89.0,"Black Stories, Documentaries, Music",Hulu
+Movie,The Amityville Murders,"October 1, 2019",2018,TV-MA,98.0,"Horror, Thriller",Hulu
+Movie,Teen Spirit,"September 30, 2019",2018,PG-13,93.0,"Drama, Family, Music",Hulu
+Movie,Aniara,"September 19, 2019",2018,R,106.0,"Drama, Science Fiction",Hulu
+Movie,Crypto,"September 19, 2019",2019,R,106.0,"Drama, Horror, Thriller",Hulu
+Movie,Culture Shock: A Conversation With Director Gigi Saul Guerrero,"September 18, 2019",2019,TV-14,2.0,Documentaries,Hulu
+Movie,NFL's Greatest Games,"September 15, 2019",1997,TV-G,96.50121457489878,Sports,Hulu
+Movie,Nitro Circus: The Movie,"September 13, 2019",2012,PG-13,92.0,"Comedy, Documentaries",Hulu
+Movie,Curious George: Royal Monkey,"September 10, 2019",2019,G,87.0,"Action, Adventure, Comedy",Hulu
+Movie,Hotel Mumbai,"September 9, 2019",2018,R,123.0,"Action, Thriller",Hulu
+Movie,Pure,"September 6, 2019",2019,TV-MA,89.0,Horror,Hulu
+Movie,We Die Young,"September 4, 2019",2019,R,93.0,"Action, Adventure, Drama",Hulu
+Movie,Matriarch,"September 3, 2019",2018,R,92.0,"Horror, Thriller",Hulu
+Movie,The Many Lives of Nick Buoniconti,"September 3, 2019",2019,TV-14,96.50121457489878,"Documentaries, Sports",Hulu
+Movie,Untouchable,"September 2, 2019",2019,TV-MA,99.0,Documentaries,Hulu
+Movie,Playing It Cool,"September 1, 2019",2015,R,95.0,"Comedy, Drama, Romance",Hulu
+Movie,Body at Brighton Rock,"August 29, 2019",2019,R,87.0,"Horror, Thriller",Hulu
+Movie,Farruko: En Letra de Otro,"August 24, 2019",2019,TV-14,96.50121457489878,"Documentaries, Latino, Music",Hulu
+Movie,Jawline,"August 23, 2019",2019,TV-MA,97.0,Documentaries,Hulu
+Movie,Hail Satan?,"August 22, 2019",2019,R,95.0,Documentaries,Hulu
+Movie,Forecast Shark Attack,"August 16, 2019",2019,TV-PG,96.50121457489878,"Documentaries, News, Science & Technology",Hulu
+Movie,The Amazing Johnathan Documentary,"August 16, 2019",2019,TV-MA,91.0,Documentaries,Hulu
+Movie,Andy Irons: Kissed by God,"August 13, 2019",2018,TV-14,100.0,Documentaries,Hulu
+Movie,Cannibal Sharks,"August 12, 2019",2019,TV-14,96.50121457489878,"Documentaries, History, News",Hulu
+Movie,The Beach Bum,"August 9, 2019",2019,R,95.0,Comedy,Hulu
+Movie,The Armstrong Tapes,"August 6, 2019",2019,TV-PG,96.50121457489878,"Documentaries, News, Science & Technology",Hulu
+Movie,Non-Fiction,"August 2, 2019",2019,R,107.0,"Comedy, Drama, International",Hulu
+Movie,School Spirit,"August 2, 2019",2019,TV-MA,84.0,"Horror, Thriller",Hulu
+Movie,After Darkness,"July 29, 2019",2018,R,95.0,"Drama, Science Fiction",Hulu
+Movie,The Field Guide to Evil,"July 26, 2019",2018,R,118.0,"Drama, Horror",Hulu
+Movie,Time Freak,"July 22, 2019",2018,PG-13,105.0,"Comedy, Drama, Romance",Hulu
+Movie,Apollo 11,"July 20, 2019",2019,G,93.0,Documentaries,Hulu
+Movie,Clair de Lune 4K Version - Moon Images from NASA's Lunar Reconnaissance Orbiter,"July 19, 2019",2018,TV-G,96.50121457489878,Documentaries,Hulu
+Movie,Earth Views,"July 19, 2019",2019,TV-G,96.50121457489878,"Documentaries, Science & Technology",Hulu
+Movie,Space Station Fisheye Fly-Through,"July 19, 2019",2016,TV-G,96.50121457489878,Documentaries,Hulu
+Movie,SpaceX Crew Dragon’s First Launch on Demo-1 Mission,"July 19, 2019",2019,TV-G,96.50121457489878,"Documentaries, Lifestyle & Culture, Science & Technology",Hulu
+Movie,SpaceX TESS Live Launch Coverage,"July 19, 2019",2018,TV-G,96.50121457489878,"Documentaries, Lifestyle & Culture, Science & Technology",Hulu
+Movie,Stunning Aurora Borealis from Space,"July 19, 2019",2016,TV-G,96.50121457489878,Documentaries,Hulu
+Movie,Culture Shock,"July 4, 2019",2019,TV-MA,91.0,"Horror, Thriller",Hulu
+Movie,The Last Word,"July 2, 2019",2017,R,108.0,"Comedy, Drama",Hulu
+Movie,Lords of Chaos,"June 28, 2019",2018,R,118.0,"Drama, Horror, Music",Hulu
+Movie,They Come Knocking,"June 7, 2019",2019,TV-MA,85.0,"Horror, Science Fiction",Hulu
+Movie,Vox Lux,"June 3, 2019",2018,R,114.0,"Drama, Music",Hulu
+Movie,Ask Dr. Ruth,"June 1, 2019",2019,TV-14,99.0,Documentaries,Hulu
+Movie,The Lonely Man,"June 1, 2019",1957,TV-G,87.0,"Action, Adventure, Drama",Hulu
+Movie,Backtrace,"May 23, 2019",2018,R,87.0,"Action, Adventure, Horror",Hulu
+Movie,Ben Is Back,"May 20, 2019",2018,R,103.0,Drama,Hulu
+Movie,All That We Destroy,"May 3, 2019",2019,TV-MA,85.0,"Horror, Thriller",Hulu
+Movie,Border,"April 24, 2019",2018,R,110.0,"International, Romance, Thriller",Hulu
+Movie,The Sisters Brothers,"April 22, 2019",2018,R,121.0,"Comedy, Crime, Drama",Hulu
+Movie,The Quake,"April 18, 2019",2018,PG-13,108.0,"Action, Adventure, Horror",Hulu
+Movie,Destroyer,"April 9, 2019",2018,R,121.0,"Crime, Drama, Thriller",Hulu
+Movie,I'm Just F*cking With You,"April 1, 2019",2019,TV-MA,82.0,"Horror, Thriller",Hulu
+Movie,Law of the Lawless,"April 1, 2019",1964,TV-PG,87.0,"Action, Adventure",Hulu
+Movie,Monsters and Men,"March 27, 2019",2018,R,96.0,"Black Stories, Crime, Drama",Hulu
+Movie,If Beale Street Could Talk,"March 26, 2019",2018,R,119.0,"Black Stories, Crime, Drama",Hulu
+Movie,Assassination Nation,"March 18, 2019",2018,R,108.0,"Action, Comedy, LGBTQ+",Hulu
+Movie,Havana Street Party Presents Orishas,"March 16, 2019",2019,TV-14,96.50121457489878,"Documentaries, Latino, Music",Hulu
+Movie,Shoplifters,"March 14, 2019",2018,R,121.0,"Crime, Drama, International",Hulu
+Movie,Puppies vs. the World,"March 8, 2019",2017,TV-PG,96.50121457489878,"Documentaries, News, Science & Technology",Hulu
+Movie,Voltron: Fleet Of Doom,"March 8, 2019",1986,PG,65.0,"Action, Adventure, Anime",Hulu
+Movie,Can I Steal You for a Second?,"March 7, 2019",2019,TV-14,96.50121457489878,Reality,Hulu
+Movie,Treehouse,"March 1, 2019",2019,TV-MA,88.0,Horror,Hulu
+Movie,Digging for Fire,"February 28, 2019",2015,R,84.0,"Drama, Mystery",Hulu
+Movie,The Guilty,"February 28, 2019",2018,R,88.0,"Crime, Drama, Horror",Hulu
+Movie,Three Identical Strangers,"February 26, 2019",2018,PG-13,120.0,"Documentaries, Drama, History",Hulu
+Movie,The Panama Papers,"February 24, 2019",2018,TV-14,100.0,Documentaries,Hulu
+Movie,Dog Days,"February 4, 2019",2018,PG,113.0,"Comedy, Romance",Hulu
+Movie,Down,"February 1, 2019",2019,TV-MA,82.0,"Horror, Thriller",Hulu
+Movie,Bad Reputation,"January 31, 2019",2018,R,93.0,"Documentaries, Music",Hulu
+Movie,FYRE FRAUD,"January 14, 2019",2019,TV-MA,96.0,Documentaries,Hulu
+Movie,Support the Girls,"January 3, 2019",2018,R,90.0,"Black Stories, Comedy, Drama",Hulu
+Movie,Heathers,"January 1, 2019",1989,R,103.0,"Classics, Comedy, Drama",Hulu
+Movie,Shrek en Español,"January 1, 2019",2001,PG,91.0,"Action, Adventure, Comedy",Hulu
+Movie,A Crooked Somebody,"December 31, 2018",2017,R,102.0,"Drama, Thriller",Hulu
+Movie,"New Year, New You","December 28, 2018",2018,TV-MA,84.0,Horror,Hulu
+Movie,UFC Fight Flashback,"December 28, 2018",2014,TV-14,96.50121457489878,Sports,Hulu
+Movie,UFC Main Event,"December 28, 2018",2014,TV-14,96.50121457489878,Sports,Hulu
+Movie,UFC Unleashed,"December 28, 2018",2005,TV-14,96.50121457489878,Sports,Hulu
+Movie,Every Other Holiday,"December 21, 2018",2018,TV-PG,88.0,"Drama, Family",Hulu
+Movie,Hearts Beat Loud,"December 19, 2018",2018,PG-13,97.0,"Comedy, Drama, Music",Hulu
+Movie,Damsel,"December 17, 2018",2018,R,113.0,"Action, Adventure, Comedy",Hulu
+Movie,"Nico, 1988","December 13, 2018",2017,R,94.0,"Drama, History, Music",Hulu
+Movie,Pooka!,"December 7, 2018",2018,TV-MA,83.0,"Horror, Thriller",Hulu
+Movie,Casi Leyendas,"December 1, 2018",2017,TV-PG,116.0,"Comedy, International",Hulu
+Movie,"Señor, Dame Paciencia","December 1, 2018",2017,TV-MA,91.0,"Comedy, International",Hulu
+Movie,Damascus Cover,"November 21, 2018",2018,R,94.0,"Action, Adventure, Horror",Hulu
+Movie,Sorry to Bother You,"November 21, 2018",2018,R,111.0,"Black Stories, Comedy, Science Fiction",Hulu
+Movie,Cartel Land,"November 15, 2018",2015,R,100.0,Documentaries,Hulu
+Movie,Luis and the Aliens,"November 15, 2018",2018,PG,82.0,"Action, Adventure, Comedy",Hulu
+Movie,Flesh & Blood,"November 2, 2018",2018,TV-MA,93.0,"Horror, Thriller",Hulu
+Movie,Johnny Reno,"November 1, 2018",1966,TV-G,83.0,"Action, Adventure",Hulu
+Movie,Racer and the Jailbird,"October 29, 2018",2017,R,130.0,"Crime, Drama, International",Hulu
+Movie,High Strung,"October 15, 2018",2016,PG,96.0,"Drama, Music",Hulu
+Movie,Southbound,"October 5, 2018",2015,R,89.0,"Horror, Thriller",Hulu
+Movie,The Body,"October 5, 2018",2018,TV-MA,83.0,"Horror, Thriller",Hulu
+Movie,Carved,"October 1, 2018",2018,PG-13,5.0,Horror,Hulu
+Movie,"Haunting, Horrifying Sounds from Beyond the Grave","October 1, 2018",2018,PG-13,6.0,Horror,Hulu
+Movie,Lippy,"October 1, 2018",2018,PG-13,5.0,"Drama, Horror",Hulu
+Movie,The Box,"October 1, 2018",2018,PG-13,4.0,Horror,Hulu
+Movie,The Gillymuck,"October 1, 2018",2018,PG-13,4.0,Horror,Hulu
+Movie,The Hug,"October 1, 2018",2018,PG-13,5.0,Horror,Hulu
+Movie,The Rizzle,"October 1, 2018",2018,PG-13,4.0,Horror,Hulu
+Movie,Urn,"October 1, 2018",2018,PG-13,4.0,"Drama, Horror",Hulu
+Movie,A 2nd Chance,"September 30, 2018",2014,PG,90.0,"Drama, Family, Kids",Hulu
+Movie,Zapped,"September 28, 2018",2014,TV-G,94.0,"Adventure, Black Stories, Comedy",Hulu
+Movie,Flower,"September 3, 2018",2017,R,94.0,"Comedy, Drama",Hulu
+Movie,Crime + Punishment,"August 24, 2018",2018,TV-MA,112.0,"Black Stories, Documentaries",Hulu
+Movie,Minding the Gap,"August 17, 2018",2018,TV-MA,93.0,Documentaries,Hulu
+Movie,Borg vs McEnroe,"August 10, 2018",2017,R,108.0,"Drama, International, Sports",Hulu
+Movie,Ballet Now,"July 20, 2018",2018,TV-14,74.0,"Documentaries, Lifestyle & Culture",Hulu
+Movie,Classic Wimbledon,"June 28, 2018",2018,TV-G,96.50121457489878,Sports,Hulu
+Movie,Curious George 3: Back to the Jungle,"June 23, 2018",2015,G,81.0,"Action, Adventure, Comedy",Hulu
+Movie,Jorge el Curioso 3: De regreso a la Jungla,"June 23, 2018",2015,G,80.0,"Family, Kids",Hulu
+Movie,Breakup at a Wedding,"June 15, 2018",2013,PG-13,85.0,"Comedy, Romance",Hulu
+Movie,Night of the Living Dead,"June 4, 2018",1968,TV-MA,86.0,"Classics, Horror, Thriller",Hulu
+Movie,"I, Tonya","May 31, 2018",2017,R,120.0,"Comedy, Drama",Hulu
+Movie,Half Magic,"May 23, 2018",2018,R,100.0,"Comedy, Romance",Hulu
+Movie,Cheddar Features,"May 21, 2018",2018,TV-G,96.50121457489878,"Documentaries, News",Hulu
+Movie,Money Menu,"May 21, 2018",2018,TV-G,96.50121457489878,"Cooking & Food, Lifestyle & Culture",Hulu
+Movie,Cheddar Explains,"May 16, 2018",2018,TV-G,96.50121457489878,"Documentaries, News, Science & Technology",Hulu
+Movie,It's a Disaster,"May 15, 2018",2013,R,90.0,Comedy,Hulu
+Movie,The Hangman,"May 1, 2018",1959,TV-G,87.0,"Action, Adventure",Hulu
+Movie,Tiny Shoulders: Rethinking Barbie,"April 27, 2018",2018,TV-14,93.0,Documentaries,Hulu
+Movie,Mom and Dad,"April 19, 2018",2018,R,83.0,"Horror, Thriller",Hulu
+Movie,Tragedy Girls,"April 18, 2018",2017,R,98.0,"Comedy, Horror, Thriller",Hulu
+Movie,The Messenger,"April 15, 2018",2009,R,113.0,"Drama, Romance",Hulu
+Movie,Hello I Must Be Going,"March 15, 2018",2012,R,94.0,"Comedy, Drama",Hulu
+Movie,SC Featured,"March 13, 2018",2017,TV-G,96.50121457489878,"Documentaries, Sports",Hulu
+Movie,30 for 30 Shorts,"March 3, 2018",2014,TV-G,96.50121457489878,"Documentaries, Sports",Hulu
+Movie,Indy 500,"March 2, 2018",2018,TV-G,96.50121457489878,Sports,Hulu
+Movie,Classic Boxing,"February 28, 2018",2018,TV-PG,96.50121457489878,Sports,Hulu
+Movie,ESPN Films Presents,"February 27, 2018",2009,TV-G,96.50121457489878,"Documentaries, Sports",Hulu
+Movie,O.J.: Made in America,"February 27, 2018",2016,TV-14,96.50121457489878,"Crime, Documentaries, Mystery",Hulu
+Movie,Overdrive,"February 3, 2018",2017,PG-13,93.0,"Action, Adventure, Drama",Hulu
+Movie,Tiny Toon Adventures: Night Ghoulery,"January 4, 2018",1995,TV-G,44.0,"Action, Adventure, Kids",Hulu
+Movie,Tiny Toons Spring Break Special,"January 4, 2018",1994,TV-G,46.0,Kids,Hulu
+Movie,Legion of Brothers,"December 8, 2017",2017,TV-14,79.0,Documentaries,Hulu
+Movie,Obey Giant,"November 11, 2017",2017,TV-MA,93.0,Documentaries,Hulu
+Movie,Scandalize My Name,"October 27, 2017",1999,TV-PG,54.0,Documentaries,Hulu
+Movie,Too Funny to Fail: The Life & Death of The Dana Carvey Show,"October 20, 2017",2017,TV-MA,95.0,"Comedy, Documentaries",Hulu
+Movie,(Dub) Afro Samurai Resurrection,"September 5, 2017",2009,TV-MA,101.0,"Action, Adult Animation, Adventure",Hulu
+Movie,(Dub) Mass Effect: Paragon Lost,"September 5, 2017",2013,TV-MA,94.0,"Action, Adventure, Anime",Hulu
+Movie,(Sub) Fafner: Heaven and Earth,"September 5, 2017",2010,TV-14,93.0,"Action, Adventure, Anime",Hulu
+Movie,(Sub) Fairy Tail the Movie: Phoenix Priestess,"September 5, 2017",2012,TV-14,86.0,"Anime, Drama",Hulu
+Movie,(Sub) Trigun: Badlands Rumble,"September 5, 2017",2010,TV-14,91.0,"Action, Adventure, Anime",Hulu
+Movie,Bad Company,"August 1, 2017",1972,PG,92.0,"Adventure, Drama",Hulu
+Movie,Hannie Caulder,"August 1, 2017",1971,R,85.0,"Action, Adventure, Drama",Hulu
+Movie,The Eagle and the Hawk,"July 1, 2017",1950,TV-PG,90.0,"Action, Adventure",Hulu
+Movie,Dumb: The Story of Big Brother Magazine,"June 3, 2017",2017,TV-MA,79.0,Documentaries,Hulu
+Movie,Becoming Bond,"May 19, 2017",2017,TV-MA,95.0,Documentaries,Hulu
+Movie,Batman & Bill,"May 6, 2017",2017,TV-14,93.0,Documentaries,Hulu
+Movie,John Ford Goes To War,"April 21, 2017",2002,TV-PG,56.0,"Action, Adventure, Documentaries",Hulu
+Movie,(Dub) Akira,"March 17, 2017",1988,R,125.0,"Action, Adult Animation, Anime",Hulu
+Movie,(Sub) Akira,"March 17, 2017",1988,R,125.0,"Action, Adult Animation, Anime",Hulu
+Movie,Children of the Corn,"December 31, 2016",1984,R,92.0,Horror,Hulu
+Movie,Hunt for the Wilderpeople,"December 24, 2016",2016,PG-13,101.0,"Adventure, Comedy, Drama",Hulu
+Movie,(Sub) K MISSING KINGS,"October 1, 2015",2014,PG,74.0,"Action, Adventure, Anime",Hulu
+Movie,Ben 10: Secret of the Omnitrix,"May 1, 2015",2007,TV-Y7,71.0,"Action, Adventure, Family",Hulu
+Movie,The Other Man,"February 3, 2015",2008,R,88.0,"Drama, Mystery, Thriller",Hulu
+Movie,The Resident,"February 3, 2015",2012,R,91.0,"Drama, Horror, Thriller",Hulu
+Movie,Girls Just Want to Have Fun,"January 1, 2015",1985,PG,87.0,"Comedy, Music, Teen",Hulu
+Movie,A Boy Named Charlie Brown,"April 25, 2014",1969,TV-G,86.0,"Comedy, Family, Kids",Hulu
+Movie,A Very Brady Christmas,"April 25, 2014",1988,TV-PG,94.0,"Comedy, Family",Hulu
+Movie,Dr. Seuss: Dr. Seuss on the Loose,"April 25, 2014",1973,TV-G,25.0,"Family, Kids",Hulu
+Movie,Dr. Seuss: The Cat in the Hat,"April 25, 2014",1971,TV-G,25.0,"Family, Kids",Hulu
+Movie,Sabrina Down Under,"April 25, 2014",1999,TV-G,87.0,"Comedy, Family, Teen",Hulu
+Movie,Snoopy Come Home,"April 25, 2014",1972,TV-G,81.0,"Comedy, Family, Kids",Hulu
+Movie,Dr. Seuss: The Lorax,"April 18, 2014",1972,TV-G,26.0,"Family, Kids",Hulu
+Movie,(Sub) Legend of Heroes: Trails in the Sky,"August 31, 2013",2011,PG-13,84.0,"Anime, International, Science Fiction",Hulu
