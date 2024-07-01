@@ -11,7 +11,7 @@
 Hello all! This repository is a Data and Predictive Analysis project on Video Streaming Platform. This project aims to predict the genre of the movies or TV shows given their release year, duration (minutes/seasons), rating and streaming platform. The dataset utilized for this project was obtained from video streaming platforms (Netflix, Hulu, Amazon Prime and Disney Plus). Integrating the data from various streaming platforms, this project involves Data Ingestion, Exploratory Data Analysis (EDA) and Predictive Analytics. 
 
 ### Dependencies
-- Python libraries: pandas, numpy, matplotlib, seaborn, sqlalchemy
+- Python libraries: pandas, numpy, matplotlib, seaborn, sqlalchemy, sci-kit learn
 - SQL:  PostgresSQL (pgAdmin4)
 - PowerBI
 
